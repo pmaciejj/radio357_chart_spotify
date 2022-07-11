@@ -1,0 +1,5 @@
+spotify_api.json
+__pycache__/
+data/357chart_html/
+data/spotify/
+.ipynb_checkpoints/

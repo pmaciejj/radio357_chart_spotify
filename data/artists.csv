@@ -1,0 +1,577 @@
+date;artist;artist_id;spotify_data;artist_name;artist_genres;artist_popularity;artist_followers
+2022-06-28;Fisz Emade Tworzywo;0YYxsW13yGiA2e80fu4VIA;Fisz Emade Tworzywo|polish alternative|44|101219;Fisz Emade Tworzywo;polish alternative;44;101219
+2022-06-28;Vito Bambino;5XGkLMcwitYFdwroktQs7o;Vito Bambino|polish alternative,polish pop|60|56121;Vito Bambino;polish alternative,polish pop;60;56121
+2022-06-28;Kirk Hammett;2ePzbA0F0TD96Na0MEB2Cf;Kirk Hammett||35|25879;Kirk Hammett;;35;25879
+2022-06-28;Artist For Ukraine;3BzNLpnqZ1IMvso6rdIeUh;Artists for Ukraine||8|31;Artists for Ukraine;;8;31
+2022-06-28;Kwiat Jabłoni;53l3yjX8ITilPIlCRsVKEB;Kwiat Jabłoni|polish alternative,polish pop|60|203617;Kwiat Jabłoni;polish alternative,polish pop;60;203617
+2022-06-28;Mick Jagger;3d2pb1dHTm8b61zAGVUVvO;Mick Jagger|album rock,blues rock,classic rock,dance rock,mellow gold,rock,soft rock|56|454302;Mick Jagger;album rock,blues rock,classic rock,dance rock,mellow gold,rock,soft rock;56;454302
+2022-06-28;Sanah;0TMvoNR0AIJV138mHY6jdE;sanah|polish pop|70|1328650;sanah;polish pop;70;1328650
+2022-06-28;Harry Styles;6KImCVD70vtIoJWnq6nGn3;Harry Styles|pop|93|21650434;Harry Styles;pop;93;21650434
+2022-06-28;Pink Floyd;0k17h0D3J5VfsdmQ1iZtE9;Pink Floyd|album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock|77|17139793;Pink Floyd;album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock;77;17139793
+2022-06-28;Sosnowski;41qXa50750tdWTyhtp1iCq;Sosnowski|polish blues|29|4020;Sosnowski;polish blues;29;4020
+2022-06-28;Pablopavo i Ludziki;5y7leUjjrhUswowWshGpCi;Pablopavo i Ludziki|polish alternative,polish reggae|35|19294;Pablopavo i Ludziki;polish alternative,polish reggae;35;19294
+2022-06-28;Myslovitz;3sntDD4Y2K97qvDq3GPqZ5;Myslovitz|polish alternative,polish alternative rock,polish indie,polish indie rock,polish pop,polish rock|48|181133;Myslovitz;polish alternative,polish alternative rock,polish indie,polish indie rock,polish pop,polish rock;48;181133
+2022-06-28;Sheryl Crow;4TKTii6gnOnUXQHyuo9JaD;Sheryl Crow|lilith,mellow gold,new wave pop,permanent wave,pop rock,rock|65|913151;Sheryl Crow;lilith,mellow gold,new wave pop,permanent wave,pop rock,rock;65;913151
+2022-06-28;Michelle Gurevich;2lP3Fx1aGCbQvH1F6i5Qeg;Michelle Gurevich|slowcore|45|91028;Michelle Gurevich;slowcore;45;91028
+2022-06-28;Polskie Znaki;51mMxJU8FRsiFRbXnYB3or;Polskie Znaki|polish alternative|27|1393;Polskie Znaki;polish alternative;27;1393
+2022-06-28;Florence And The Machine;1moxjboGR7GNWYIMWsRjgG;Florence + The Machine|baroque pop,pop,uk alternative pop|75|5971897;Florence + The Machine;baroque pop,pop,uk alternative pop;75;5971897
+2022-06-28;Rammstein;6wWVKhxIU2cEi0K81v7HvP;Rammstein|alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte|79|7306980;Rammstein;alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte;79;7306980
+2022-06-28;Kae Tempest;1YcprGtF13BYCZQK9jYPEw;Kae Tempest|lgbtq+ hip hop,slam poetry|46|177080;Kae Tempest;lgbtq+ hip hop,slam poetry;46;177080
+2022-06-28;Tori Amos;1KsASRNugxU85T0u6zSg32;Tori Amos|dark pop,ectofolk,lilith,melancholia,new wave pop,permanent wave,piano rock,pop rock,singer-songwriter|54|647012;Tori Amos;dark pop,ectofolk,lilith,melancholia,new wave pop,permanent wave,piano rock,pop rock,singer-songwriter;54;647012
+2022-06-28;Ewa Bem;6E6qou5XcK7fjR7Ikvq0AP;Ewa Bem|classic polish pop|28|13873;Ewa Bem;classic polish pop;28;13873
+2022-06-28;Hidden By Ivy;2nfwzENcmwKAejFHkmOl0J;Hidden By Ivy|polish post-punk|8|794;Hidden By Ivy;polish post-punk;8;794
+2022-06-28;Röyksopp;5nPOO9iTcrs9k6yFffPxjH;Röyksopp|alternative dance,big beat,downtempo,electronica,electropop,trip hop|59|799282;Röyksopp;alternative dance,big beat,downtempo,electronica,electropop,trip hop;59;799282
+2022-06-28;WaluśKraksaKryzys;4kOWvyAkvmkCrIHwW3bODd;WaluśKraksaKryzys|polish alternative,polish indie rock,polish post-punk|40|11688;WaluśKraksaKryzys;polish alternative,polish indie rock,polish post-punk;40;11688
+2022-06-28;Czesław Mozil;5rDWHA1JYXY31soG6Os9cY;Czesław Śpiewa|poezja spiewana,polish alternative|35|59290;Czesław Śpiewa;poezja spiewana,polish alternative;35;59290
+2022-06-28;Scorpions;27T030eWyCQRmDyuvr1kxY;Scorpions|album rock,german hard rock,german metal,german rock,hard rock,metal,rock|71|5675044;Scorpions;album rock,german hard rock,german metal,german rock,hard rock,metal,rock;71;5675044
+2022-06-28;Karaś/Rogucki;1ZAGaCgMaOtt2yOUm1Qq6x;KARAŚ/ROGUCKI|polish alternative|41|18662;KARAŚ/ROGUCKI;polish alternative;41;18662
+2022-06-28;DJ BRK;2jNxbYSRQ7pkrxVuOjES7n;DJ BRK||40|2188;DJ BRK;;40;2188
+2022-06-28;Franio Mucha;2l1ha2vETw02TOEdpepvEx;Franio Mucha||14|113;Franio Mucha;;14;113
+2022-06-28;Dawid Tyszkowski;2Lp4rVUJ5ZRZfT8wkWF81K;Dawid Tyszkowski||34|792;Dawid Tyszkowski;;34;792
+2022-06-28;Follow;13DQTaJffWrdyqeUe7Fzr2;The Following Sea||0|4;The Following Sea;;0;4
+2022-06-28;Gibbs;1T4HxOYolAEb5PadIVKdWZ;Gibbs|polish hip hop|64|51662;Gibbs;polish hip hop;64;51662
+2022-06-28;Michał Pepol;0gaIWmDwfXqZ3uMj72ccZ0;Michał Pepol||25|121;Michał Pepol;;25;121
+2022-06-28;Dawid Podsiadło;6EB8VE9f7Ut6NOgviN6gDW;Dawid Podsiadło|polish pop,talent show|66|1520529;Dawid Podsiadło;polish pop,talent show;66;1520529
+2022-06-28;Ørganek;2cPIQ8eVSqSKGjBQXgi3WH;Organek|polish alternative,polish alternative rock,polish pop|46|204970;Organek;polish alternative,polish alternative rock,polish pop;46;204970
+2022-06-28;David Paich;6zgKTqBOokh6IjLXOO5zfQ;David Paich||23|1026;David Paich;;23;1026
+2022-06-28;Editors;6e9wIFWhBPHLE9bXK8gtBI;Editors|alternative dance,britpop,indie rock,modern rock,rock|56|672716;Editors;alternative dance,britpop,indie rock,modern rock,rock;56;672716
+2022-06-28;Kate Bush;1aSxMhuvixZ8h9dK9jIDwL;Kate Bush|art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter|81|1165680;Kate Bush;art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter;81;1165680
+2022-06-28;Julia Kamińska;4jFzWphpCeC923MojgEp7V;Julia Kamińska||24|288;Julia Kamińska;;24;288
+2022-06-28;Porcupine Tree;5NXHXK6hOCotCF8lvGM1I0;Porcupine Tree|alternative metal,art rock,progressive metal,progressive rock,symphonic rock|57|560904;Porcupine Tree;alternative metal,art rock,progressive metal,progressive rock,symphonic rock;57;560904
+2022-06-28;Robert Plant;1OwarW4LEHnoep20ixRA0y;Robert Plant|album rock,art rock,blues rock,classic rock,hard rock,mellow gold,progressive rock,rock,roots rock,soft rock,symphonic rock,uk americana|58|952339;Robert Plant;album rock,art rock,blues rock,classic rock,hard rock,mellow gold,progressive rock,rock,roots rock,soft rock,symphonic rock,uk americana;58;952339
+2022-06-28;Mitch;2PQkXVCcXu0Nwf226rzGXq;Mitch & Mitch|polish alternative rock|34|4790;Mitch & Mitch;polish alternative rock;34;4790
+2022-06-28;Lady Gaga;1HY2Jd0NmPuamShAr6KMms;Lady Gaga|art pop,dance pop,pop|83|22465150;Lady Gaga;art pop,dance pop,pop;83;22465150
+2022-06-28;Męskie Granie Orkiestra 2022;1WbPJm4WVQvxOEQO1GEJy7;Męskie Granie Orkiestra 2022|polish pop|45|2186;Męskie Granie Orkiestra 2022;polish pop;45;2186
+2022-06-28;Jack Savoretti;7nC05zmJukRGYObQeRgg3x;Jack Savoretti|acoustic pop,neo mellow|53|266590;Jack Savoretti;acoustic pop,neo mellow;53;266590
+2022-06-28;Blossoms;22RISwgVJyZu9lpqAcv1F5;Blossoms|english indie rock,modern alternative rock,modern rock,rock|58|393657;Blossoms;english indie rock,modern alternative rock,modern rock,rock;58;393657
+2022-06-28;LemON;3B4XG3HanBgkVOybc89Q3T;LemON|polish pop,rusyn folk|43|39843;LemON;polish pop,rusyn folk;43;39843
+2022-06-28;Classix Nouveaux;40PsC6cWe7ZQdOUTqF5JgD;Classix Nouveaux|new romantic,new wave,new wave pop,synthpop|28|22055;Classix Nouveaux;new romantic,new wave,new wave pop,synthpop;28;22055
+2022-06-28;Luxtorpeda;0D5kXlS7UOApMpTyuSrFAW;Luxtorpeda|polish punk,polish rock,poznan indie|37|45548;Luxtorpeda;polish punk,polish rock,poznan indie;37;45548
+2022-06-28;Administratorr Electro;6FPamV3tkyoMVnCBPejBVy;Administratorr Electro|polish synthpop|22|292;Administratorr Electro;polish synthpop;22;292
+2022-06-28;Mariusz Lubomski;05AVHcWP9DF6y6LEU845uz;Mariusz Lubomski|classic polish pop|18|2092;Mariusz Lubomski;classic polish pop;18;2092
+2022-06-28;MARO;3NP4jJcW3R6qO6rbtnH0wn;MARO|musica portuguesa contemporanea|57|71171;MARO;musica portuguesa contemporanea;57;71171
+2022-06-28;Stanisława Celińska;0sijpMmVF9ui4micUVn9d6;Stanisława Celińska|classic polish pop|28|5067;Stanisława Celińska;classic polish pop;28;5067
+2022-06-28;Kalush Orchestra;46rVVJwHWNS7C7MaWXd842;KALUSH|ukrainian hip hop,ukrainian pop,ukrainian viral pop|62|214143;KALUSH;ukrainian hip hop,ukrainian pop,ukrainian viral pop;62;214143
+2022-06-28;The Waterboys;5TnuP42pw475UrjjeabtwZ;The Waterboys|art rock,celtic rock,new wave pop,rock,scottish new wave,scottish rock|55|217460;The Waterboys;art rock,celtic rock,new wave pop,rock,scottish new wave,scottish rock;55;217460
+2022-06-28;Bokka;6R2e6FSXY9vhgOulV08FO3;BOKKA|polish alternative,polish electronica,polish indie|36|40959;BOKKA;polish alternative,polish electronica,polish indie;36;40959
+2022-06-28;Ladaco;6smrG6QLzHOOBeIOzHx351;Ladaco|polish alternative|25|488;Ladaco;polish alternative;25;488
+2022-06-28;Architects;3ZztVuWxHzNpl0THurTFCv;Architects|mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore|61|719305;Architects;mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore;61;719305
+2022-06-28;Żurkowski;17ZrDcSLNOBMR1oz6w4DXs;Żurkowski|polish alternative|26|895;Żurkowski;polish alternative;26;895
+2022-06-28;Skubas;5BoG8WljgEsbLOtoK5IAok;SKUBAS|polish alternative,polish indie|38|25614;SKUBAS;polish alternative,polish indie;38;25614
+2022-06-28;Iron Maiden;6mdiAmATAx73kdxrNrnlao;Iron Maiden|hard rock,metal,nwobhm,rock|71|7472332;Iron Maiden;hard rock,metal,nwobhm,rock;71;7472332
+2022-06-28;Blurred Pink;420ExMrSqalFaHc9dypLlN;blurred pink||17|790;blurred pink;;17;790
+2022-06-28;Maria Peszek;2bJ904AqmK8LRH9fGShlQM;Maria Peszek|classic polish pop,poezja spiewana,polish alternative,polish pop|39|65084;Maria Peszek;classic polish pop,poezja spiewana,polish alternative,polish pop;39;65084
+2022-06-28;Michael Kiwanuka;0bzfPKdbXL5ezYW2z3UGQj;Michael Kiwanuka|british soul,neo soul,psychedelic soul,soul|62|1233024;Michael Kiwanuka;british soul,neo soul,psychedelic soul,soul;62;1233024
+2022-06-28;Diana Ross;3MdG05syQeRYPPcClLaUGl;Diana Ross|adult standards,disco,motown,quiet storm,soul|66|1470881;Diana Ross;adult standards,disco,motown,quiet storm,soul;66;1470881
+2022-06-28;Bluszcz;4QUfzPnzzNf93Y6VKxZVlD;Bluszcz|polish alternative,polish electronica|35|7969;Bluszcz;polish alternative,polish electronica;35;7969
+2022-06-28;Eddie Vedder;0mXTJETA4XUa12MmmXxZJh;Eddie Vedder|acoustic rock,permanent wave,rock|60|1394951;Eddie Vedder;acoustic rock,permanent wave,rock;60;1394951
+2022-06-28;Elton John;3PhoLpVuITZKcymswpck5b;Elton John|glam rock,mellow gold,piano rock|82|9542554;Elton John;glam rock,mellow gold,piano rock;82;9542554
+2022-06-28;Strachy Na Lachy;4DXXg7xzgKAEYeFhh9wAtk;Strachy Na Lachy|polish alternative rock|45|156513;Strachy Na Lachy;polish alternative rock;45;156513
+2022-06-28;Billy Idol;7lzordPuZEXxwt9aoVZYmG;Billy Idol|album rock,classic rock,dance rock,hard rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock|67|1446589;Billy Idol;album rock,classic rock,dance rock,hard rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock;67;1446589
+2022-06-28;Placebo;6RZUqkomCmb8zCRqc9eznB;Placebo|alternative rock,britpop,modern rock,permanent wave,rock|66|1667840;Placebo;alternative rock,britpop,modern rock,permanent wave,rock;66;1667840
+2022-06-28;Artur Rojek;2wmdMX0w131ZumU30P5WZH;Artur Rojek|polish alternative,polish indie,polish pop|51|129630;Artur Rojek;polish alternative,polish indie,polish pop;51;129630
+2022-06-28;Sting;0Ty63ceoRnnJKVEYP0VQpk;Sting|permanent wave,soft rock,sophisti-pop|69|2678041;Sting;permanent wave,soft rock,sophisti-pop;69;2678041
+2022-06-28;Ralph Kaminski;7l1IUcuGTEXMuD1aN3wFqw;Ralph Kaminski|polish alternative,polish pop|54|126921;Ralph Kaminski;polish alternative,polish pop;54;126921
+2022-06-28;Patrick The Pan;7vYfq6OMlGDw1IpTxar2h2;Patrick the Pan|polish alternative,polish indie,polish pop|37|16367;Patrick the Pan;polish alternative,polish indie,polish pop;37;16367
+2022-06-28;Adele;4dpARuHxo51G3z768sgnrY;Adele|british soul,pop,pop soul,uk pop|83|39477283;Adele;british soul,pop,pop soul,uk pop;83;39477283
+2022-06-28;Jan Borysewicz;3aOdQc0HYtG1ZJoU5eyv8P;Jan Borysewicz||33|1326;Jan Borysewicz;;33;1326
+2022-06-28;Daria Zawiałow;0tdKRrbItnLj40yUFi23jx;Daria Zawiałow|polish alternative,polish indie,polish pop|61|321150;Daria Zawiałow;polish alternative,polish indie,polish pop;61;321150
+2022-06-28;Muchy;09Z3SI4GkhYjpCB6884vC8;Muchy|polish alternative,polish indie,polish indie rock,polish post-punk,poznan indie|36|15512;Muchy;polish alternative,polish indie,polish indie rock,polish post-punk,poznan indie;36;15512
+2022-06-28;Bitamina;2EJzUdaDAwfqcjpQcRAYdQ;Bitamina|polish alternative,polish indie,polish pop|45|126050;Bitamina;polish alternative,polish indie,polish pop;45;126050
+2022-06-28;Krzysztof Zalewski;1U1eSs7M2ENf09cDx4lavK;Krzysztof Zalewski|polish alternative rock,polish pop|53|189435;Krzysztof Zalewski;polish alternative rock,polish pop;53;189435
+2022-06-28;Organek;2cPIQ8eVSqSKGjBQXgi3WH;Organek|polish alternative,polish alternative rock,polish pop|46|204970;Organek;polish alternative,polish alternative rock,polish pop;46;204970
+2022-06-28;Kaśka Sochacka;3ClL18AtCAPwXVT6mUkBDN;Kaśka Sochacka|polish pop|52|55785;Kaśka Sochacka;polish pop;52;55785
+2022-06-28;Foo Fighters;7jy3rLJdDQY21OgRLCZ9sD;Foo Fighters|alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock|75|10007016;Foo Fighters;alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock;75;10007016
+2022-06-28;Dave Gahan;7hKXTmrq3ZppBx881yBbOr;Dave Gahan|alternative dance,new romantic,new wave,synthpop|42|172607;Dave Gahan;alternative dance,new romantic,new wave,synthpop;42;172607
+2022-06-28;The Rolling Stones;22bE4uQ6baNwSHPVcDxLCe;The Rolling Stones|british invasion,classic rock,rock|77|11840374;The Rolling Stones;british invasion,classic rock,rock;77;11840374
+2022-06-28;Męskie Granie Orkiestra 2021;5xoXMR6Y8PORwObvyND9ZE;Męskie Granie Orkiestra 2021|polish alternative,polish pop|55|149574;Męskie Granie Orkiestra 2021;polish alternative,polish pop;55;149574
+2022-06-28;Red Hot Chili Peppers;0L8ExT028jH3ddEcZwqJJ5;Red Hot Chili Peppers|alternative rock,funk metal,funk rock,permanent wave|81|18264285;Red Hot Chili Peppers;alternative rock,funk metal,funk rock,permanent wave;81;18264285
+2022-06-28;Tears For Fears;4bthk9UfsYUYdcFyqxmSUU;Tears For Fears|new romantic,new wave,new wave pop,permanent wave,rock,sophisti-pop,synthpop|71|2423366;Tears For Fears;new romantic,new wave,new wave pop,permanent wave,rock,sophisti-pop,synthpop;71;2423366
+2022-06-28;Anieli;014XDYJJQpJHyaZyxpJrrB;Anieli||32|1335;Anieli;;32;1335
+2022-06-28;Aurora;1WgXqy2Dd70QQOU7Ay074N;AURORA|art pop,norwegian pop|71|2319280;AURORA;art pop,norwegian pop;71;2319280
+2022-06-28;Paweł Domagała;0Gk98lHv6LlqbWPwdMiga2;Paweł Domagała|polish pop|42|273725;Paweł Domagała;polish pop;42;273725
+2022-06-28;Igo;6I5JdHLVup9pIjn9g5K20N;Igo|polish alternative|50|12498;Igo;polish alternative;50;12498
+2022-06-28;Stromae;5j4HeCoUlzhfWtjAfM1acR;Stromae|belgian pop,g-house|72|2421765;Stromae;belgian pop,g-house;72;2421765
+2022-06-28;Voo Voo;4vC1DrwqCb43puGttDWlwL;Voo Voo|classic polish pop,polish alternative,polish blues,polish post-punk,polish rock|34|37755;Voo Voo;classic polish pop,polish alternative,polish blues,polish post-punk,polish rock;34;37755
+2022-06-28;Muse;12Chz98pHFMPJEknJQMWvI;Muse|modern rock,permanent wave,rock|74|7050629;Muse;modern rock,permanent wave,rock;74;7050629
+2022-06-28;Natalia Przybysz;03KLzHVK6la8dVop1iVI5x;Natalia Przybysz|poezja spiewana,polish alternative,polish pop|45|80283;Natalia Przybysz;poezja spiewana,polish alternative,polish pop;45;80283
+2022-06-28;Sorry Boys;0WX7MXOUx7elCFdxdgvdBU;Sorry Boys|polish alternative,polish pop|37|28982;Sorry Boys;polish alternative,polish pop;37;28982
+2022-06-28;Jack White;4FZ3j1oH43e7cukCALsCwf;Jack White|alternative rock,blues rock,garage rock,garage rock revival,modern blues rock,modern rock,punk blues,rock|59|1244845;Jack White;alternative rock,blues rock,garage rock,garage rock revival,modern blues rock,modern rock,punk blues,rock;59;1244845
+2022-06-28;Ed Sheeran;6eUKZXaKkcviH0Ku9w2n3V;Ed Sheeran|pop,uk pop|90|98994367;Ed Sheeran;pop,uk pop;90;98994367
+2022-06-28;T.Love;2L14uYIQePr3ZEutb6feZz;T.Love|polish pop,polish reggae,polish rock|48|167681;T.Love;polish pop,polish reggae,polish rock;48;167681
+2022-06-28;U2;51Blml2LZPmy7TTiAg47vQ;U2|irish rock,permanent wave,rock|76|9886052;U2;irish rock,permanent wave,rock;76;9886052
+2022-06-28;Marillion;7ai5TWiOG8g9Hds5AATS28;Marillion|album rock,art rock,classic rock,neo-progressive,progressive rock,symphonic rock|56|405814;Marillion;album rock,art rock,classic rock,neo-progressive,progressive rock,symphonic rock;56;405814
+2022-06-28;Marcin Nowakowski;3enFhWFiJILf4OYGcTPdMy;Marcin Nowakowski|bajki|8|304;Marcin Nowakowski;bajki;8;304
+2022-06-28;Olivia Vedder, Eddie Vedder, Glen Hansard;1cALtYxOIn4uWAfNdwcP4E;Olivia Vedder||35|4736;Olivia Vedder;;35;4736
+2022-06-28;Król;0gH4VBwt5MwWomiOXloDC4;KRÓL|polish alternative,polish indie|48|28728;KRÓL;polish alternative,polish indie;48;28728
+2022-06-28;Grzegorz Turnau;5bQZCiENsgmW4SvUOc86qI;Grzegorz Turnau|classic polish pop,poezja spiewana,sung poetry|53|47326;Grzegorz Turnau;classic polish pop,poezja spiewana,sung poetry;53;47326
+2022-06-28;Bryan Adams;3Z02hBLubJxuFJfhacLSDc;Bryan Adams|canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,soft rock|73|2647804;Bryan Adams;canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,soft rock;73;2647804
+2022-06-28;Eric Clapton;6PAt558ZEZl0DmdXlnjMgD;Eric Clapton|album rock,blues rock,classic rock,electric blues,mellow gold,rock,soft rock|70|4956311;Eric Clapton;album rock,blues rock,classic rock,electric blues,mellow gold,rock,soft rock;70;4956311
+2022-06-28;Sokół;5Kuxl5ZenCl9fYzmtin6ot;Sokół|polish hip hop|56|225660;Sokół;polish hip hop;56;225660
+2022-06-28;Riverside;5yjbUO1Jocui7RKE30zfLT;Riverside|neo-progressive,polish prog,prog metal,progressive metal,progressive rock,symphonic rock|43|169308;Riverside;neo-progressive,polish prog,prog metal,progressive metal,progressive rock,symphonic rock;43;169308
+2022-06-28;Archive;1Q776wzj2mrtXrNu3iH6nk;Archive|electronica,trip hop|48|235885;Archive;electronica,trip hop;48;235885
+2022-06-28;Bovska;4E8L0A5xtDhcMaeBO7p0eg;Bovska|polish alternative,polish pop|36|64885;Bovska;polish alternative,polish pop;36;64885
+2022-06-28;ZAZ;1mbgj8ERPs8lWi7t5cYrdy;Zaz|chanson,french jazz,nouvelle chanson francaise|61|1326313;Zaz;chanson,french jazz,nouvelle chanson francaise;61;1326313
+2022-06-29;Pink Floyd;0k17h0D3J5VfsdmQ1iZtE9;Pink Floyd|album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock|77|17144809;Pink Floyd;album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock;77;17144809
+2022-06-29;Pablopavo i Ludziki;5y7leUjjrhUswowWshGpCi;Pablopavo i Ludziki|polish alternative,polish reggae|35|19305;Pablopavo i Ludziki;polish alternative,polish reggae;35;19305
+2022-06-29;Sosnowski;41qXa50750tdWTyhtp1iCq;Sosnowski|polish blues|29|4021;Sosnowski;polish blues;29;4021
+2022-06-29;Harry Styles;6KImCVD70vtIoJWnq6nGn3;Harry Styles|pop|93|21671122;Harry Styles;pop;93;21671122
+2022-06-29;Vito Bambino;5XGkLMcwitYFdwroktQs7o;Vito Bambino|polish alternative,polish pop|60|56336;Vito Bambino;polish alternative,polish pop;60;56336
+2022-06-29;Mick Jagger;3d2pb1dHTm8b61zAGVUVvO;Mick Jagger|album rock,blues rock,classic rock,dance rock,mellow gold,rock,soft rock|56|454743;Mick Jagger;album rock,blues rock,classic rock,dance rock,mellow gold,rock,soft rock;56;454743
+2022-06-29;Kwiat Jabłoni;53l3yjX8ITilPIlCRsVKEB;Kwiat Jabłoni|polish alternative,polish pop|60|203965;Kwiat Jabłoni;polish alternative,polish pop;60;203965
+2022-06-29;Artist For Ukraine;3BzNLpnqZ1IMvso6rdIeUh;Artists for Ukraine||8|31;Artists for Ukraine;;8;31
+2022-06-29;Kirk Hammett;2ePzbA0F0TD96Na0MEB2Cf;Kirk Hammett||35|25914;Kirk Hammett;;35;25914
+2022-06-29;Myslovitz;3sntDD4Y2K97qvDq3GPqZ5;Myslovitz|polish alternative,polish alternative rock,polish indie,polish indie rock,polish pop,polish rock|48|181237;Myslovitz;polish alternative,polish alternative rock,polish indie,polish indie rock,polish pop,polish rock;48;181237
+2022-06-29;Sanah;0TMvoNR0AIJV138mHY6jdE;sanah|polish pop|70|1331117;sanah;polish pop;70;1331117
+2022-06-29;Michelle Gurevich;2lP3Fx1aGCbQvH1F6i5Qeg;Michelle Gurevich|slowcore|45|91068;Michelle Gurevich;slowcore;45;91068
+2022-06-29;Bokka;6R2e6FSXY9vhgOulV08FO3;BOKKA|polish alternative,polish electronica,polish indie|36|40968;BOKKA;polish alternative,polish electronica,polish indie;36;40968
+2022-06-29;Polskie Znaki;51mMxJU8FRsiFRbXnYB3or;Polskie Znaki|polish alternative|27|1396;Polskie Znaki;polish alternative;27;1396
+2022-06-29;Florence And The Machine;1moxjboGR7GNWYIMWsRjgG;Florence + The Machine|baroque pop,pop,uk alternative pop|75|5972963;Florence + The Machine;baroque pop,pop,uk alternative pop;75;5972963
+2022-06-29;Rammstein;6wWVKhxIU2cEi0K81v7HvP;Rammstein|alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte|79|7310503;Rammstein;alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte;79;7310503
+2022-06-29;Kae Tempest;1YcprGtF13BYCZQK9jYPEw;Kae Tempest|lgbtq+ hip hop,slam poetry|46|177157;Kae Tempest;lgbtq+ hip hop,slam poetry;46;177157
+2022-06-29;Tori Amos;1KsASRNugxU85T0u6zSg32;Tori Amos|dark pop,ectofolk,lilith,melancholia,new wave pop,permanent wave,piano rock,pop rock,singer-songwriter|54|647240;Tori Amos;dark pop,ectofolk,lilith,melancholia,new wave pop,permanent wave,piano rock,pop rock,singer-songwriter;54;647240
+2022-06-29;Ewa Bem;6E6qou5XcK7fjR7Ikvq0AP;Ewa Bem|classic polish pop|28|13875;Ewa Bem;classic polish pop;28;13875
+2022-06-29;Hidden By Ivy;2nfwzENcmwKAejFHkmOl0J;Hidden By Ivy|polish post-punk|8|794;Hidden By Ivy;polish post-punk;8;794
+2022-06-29;Röyksopp;5nPOO9iTcrs9k6yFffPxjH;Röyksopp|alternative dance,big beat,downtempo,electronica,electropop,trip hop|59|799478;Röyksopp;alternative dance,big beat,downtempo,electronica,electropop,trip hop;59;799478
+2022-06-29;WaluśKraksaKryzys;4kOWvyAkvmkCrIHwW3bODd;WaluśKraksaKryzys|polish alternative,polish indie rock,polish post-punk|40|11703;WaluśKraksaKryzys;polish alternative,polish indie rock,polish post-punk;40;11703
+2022-06-29;Czesław Mozil;5rDWHA1JYXY31soG6Os9cY;Czesław Śpiewa|poezja spiewana,polish alternative|35|59311;Czesław Śpiewa;poezja spiewana,polish alternative;35;59311
+2022-06-29;Scorpions;27T030eWyCQRmDyuvr1kxY;Scorpions|album rock,german hard rock,german metal,german rock,hard rock,metal,rock|71|5677335;Scorpions;album rock,german hard rock,german metal,german rock,hard rock,metal,rock;71;5677335
+2022-06-29;Sheryl Crow;4TKTii6gnOnUXQHyuo9JaD;Sheryl Crow|lilith,mellow gold,new wave pop,permanent wave,pop rock,rock|65|913489;Sheryl Crow;lilith,mellow gold,new wave pop,permanent wave,pop rock,rock;65;913489
+2022-06-29;Karaś/Rogucki;1ZAGaCgMaOtt2yOUm1Qq6x;KARAŚ/ROGUCKI|polish alternative|41|18683;KARAŚ/ROGUCKI;polish alternative;41;18683
+2022-06-29;Architects;3ZztVuWxHzNpl0THurTFCv;Architects|mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore|61|719546;Architects;mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore;61;719546
+2022-06-29;Jack Savoretti;7nC05zmJukRGYObQeRgg3x;Jack Savoretti|acoustic pop,neo mellow|53|266640;Jack Savoretti;acoustic pop,neo mellow;53;266640
+2022-06-29;Franio Mucha;2l1ha2vETw02TOEdpepvEx;Franio Mucha||14|113;Franio Mucha;;14;113
+2022-06-29;Follow;13DQTaJffWrdyqeUe7Fzr2;The Following Sea||0|4;The Following Sea;;0;4
+2022-06-29;Gibbs;1T4HxOYolAEb5PadIVKdWZ;Gibbs|polish hip hop|64|51818;Gibbs;polish hip hop;64;51818
+2022-06-29;Michał Pepol;0gaIWmDwfXqZ3uMj72ccZ0;Michał Pepol||25|121;Michał Pepol;;25;121
+2022-06-29;Dawid Podsiadło;6EB8VE9f7Ut6NOgviN6gDW;Dawid Podsiadło|polish pop,talent show|66|1521471;Dawid Podsiadło;polish pop,talent show;66;1521471
+2022-06-29;Ørganek;2cPIQ8eVSqSKGjBQXgi3WH;Organek|polish alternative,polish alternative rock,polish pop|46|205031;Organek;polish alternative,polish alternative rock,polish pop;46;205031
+2022-06-29;David Paich;6zgKTqBOokh6IjLXOO5zfQ;David Paich||23|1037;David Paich;;23;1037
+2022-06-29;Editors;6e9wIFWhBPHLE9bXK8gtBI;Editors|alternative dance,britpop,indie rock,modern rock,rock|56|672862;Editors;alternative dance,britpop,indie rock,modern rock,rock;56;672862
+2022-06-29;Kate Bush;1aSxMhuvixZ8h9dK9jIDwL;Kate Bush|art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter,uk pop|81|1169651;Kate Bush;art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter,uk pop;81;1169651
+2022-06-29;Julia Kamińska;4jFzWphpCeC923MojgEp7V;Julia Kamińska||24|288;Julia Kamińska;;24;288
+2022-06-29;Porcupine Tree;5NXHXK6hOCotCF8lvGM1I0;Porcupine Tree|alternative metal,art rock,progressive metal,progressive rock,symphonic rock|57|561456;Porcupine Tree;alternative metal,art rock,progressive metal,progressive rock,symphonic rock;57;561456
+2022-06-29;Robert Plant;1OwarW4LEHnoep20ixRA0y;Robert Plant|album rock,art rock,blues rock,classic rock,country rock,hard rock,mellow gold,progressive rock,rock,roots rock,soft rock,symphonic rock,uk americana|58|952603;Robert Plant;album rock,art rock,blues rock,classic rock,country rock,hard rock,mellow gold,progressive rock,rock,roots rock,soft rock,symphonic rock,uk americana;58;952603
+2022-06-29;Mitch;2PQkXVCcXu0Nwf226rzGXq;Mitch & Mitch|polish alternative rock|34|4794;Mitch & Mitch;polish alternative rock;34;4794
+2022-06-29;Lady Gaga;1HY2Jd0NmPuamShAr6KMms;Lady Gaga|art pop,dance pop,pop|83|22474108;Lady Gaga;art pop,dance pop,pop;83;22474108
+2022-06-29;Męskie Granie Orkiestra 2022;1WbPJm4WVQvxOEQO1GEJy7;Męskie Granie Orkiestra 2022|polish pop|45|2264;Męskie Granie Orkiestra 2022;polish pop;45;2264
+2022-06-29;Blossoms;22RISwgVJyZu9lpqAcv1F5;Blossoms|english indie rock,modern alternative rock,modern rock,rock|58|393874;Blossoms;english indie rock,modern alternative rock,modern rock,rock;58;393874
+2022-06-29;LemON;3B4XG3HanBgkVOybc89Q3T;LemON|polish pop,rusyn folk|43|39861;LemON;polish pop,rusyn folk;43;39861
+2022-06-29;Classix Nouveaux;40PsC6cWe7ZQdOUTqF5JgD;Classix Nouveaux|new romantic,new wave,new wave pop,synthpop|28|22072;Classix Nouveaux;new romantic,new wave,new wave pop,synthpop;28;22072
+2022-06-29;Luxtorpeda;0D5kXlS7UOApMpTyuSrFAW;Luxtorpeda|polish punk,polish rock,poznan indie|37|45568;Luxtorpeda;polish punk,polish rock,poznan indie;37;45568
+2022-06-29;Administratorr Electro;6FPamV3tkyoMVnCBPejBVy;Administratorr Electro|polish synthpop|22|294;Administratorr Electro;polish synthpop;22;294
+2022-06-29;Mariusz Lubomski;05AVHcWP9DF6y6LEU845uz;Mariusz Lubomski|classic polish pop|18|2093;Mariusz Lubomski;classic polish pop;18;2093
+2022-06-29;MARO;3NP4jJcW3R6qO6rbtnH0wn;MARO|musica portuguesa contemporanea|57|71224;MARO;musica portuguesa contemporanea;57;71224
+2022-06-29;Stanisława Celińska;0sijpMmVF9ui4micUVn9d6;Stanisława Celińska|classic polish pop|28|5068;Stanisława Celińska;classic polish pop;28;5068
+2022-06-29;Kalush Orchestra;46rVVJwHWNS7C7MaWXd842;KALUSH|ukrainian hip hop,ukrainian pop,ukrainian viral pop|62|215778;KALUSH;ukrainian hip hop,ukrainian pop,ukrainian viral pop;62;215778
+2022-06-29;The Waterboys;5TnuP42pw475UrjjeabtwZ;The Waterboys|art rock,celtic rock,new wave pop,rock,scottish new wave,scottish rock|55|217552;The Waterboys;art rock,celtic rock,new wave pop,rock,scottish new wave,scottish rock;55;217552
+2022-06-29;Dawid Tyszkowski;2Lp4rVUJ5ZRZfT8wkWF81K;Dawid Tyszkowski||34|812;Dawid Tyszkowski;;34;812
+2022-06-29;DJ BRK;2jNxbYSRQ7pkrxVuOjES7n;DJ BRK||40|2187;DJ BRK;;40;2187
+2022-06-29;Ladaco;6smrG6QLzHOOBeIOzHx351;Ladaco|polish alternative|26|488;Ladaco;polish alternative;26;488
+2022-06-29;Foo Fighters;7jy3rLJdDQY21OgRLCZ9sD;Foo Fighters|alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock|75|10009527;Foo Fighters;alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock;75;10009527
+2022-06-29;Żurkowski;17ZrDcSLNOBMR1oz6w4DXs;Żurkowski|polish alternative|26|896;Żurkowski;polish alternative;26;896
+2022-06-29;Skubas;5BoG8WljgEsbLOtoK5IAok;SKUBAS|polish alternative,polish indie|38|25620;SKUBAS;polish alternative,polish indie;38;25620
+2022-06-29;Iron Maiden;6mdiAmATAx73kdxrNrnlao;Iron Maiden|hard rock,metal,nwobhm,rock|72|7475279;Iron Maiden;hard rock,metal,nwobhm,rock;72;7475279
+2022-06-29;Blurred Pink;420ExMrSqalFaHc9dypLlN;blurred pink||17|791;blurred pink;;17;791
+2022-06-29;Maria Peszek;2bJ904AqmK8LRH9fGShlQM;Maria Peszek|classic polish pop,poezja spiewana,polish alternative,polish pop|39|65122;Maria Peszek;classic polish pop,poezja spiewana,polish alternative,polish pop;39;65122
+2022-06-29;Michael Kiwanuka;0bzfPKdbXL5ezYW2z3UGQj;Michael Kiwanuka|british soul,neo soul,psychedelic soul,soul|62|1233369;Michael Kiwanuka;british soul,neo soul,psychedelic soul,soul;62;1233369
+2022-06-29;Diana Ross;3MdG05syQeRYPPcClLaUGl;Diana Ross|adult standards,disco,motown,quiet storm,soul|66|1471367;Diana Ross;adult standards,disco,motown,quiet storm,soul;66;1471367
+2022-06-29;Bluszcz;4QUfzPnzzNf93Y6VKxZVlD;Bluszcz|polish alternative,polish electronica|35|7970;Bluszcz;polish alternative,polish electronica;35;7970
+2022-06-29;Eddie Vedder;0mXTJETA4XUa12MmmXxZJh;Eddie Vedder|acoustic rock,permanent wave,rock|60|1395239;Eddie Vedder;acoustic rock,permanent wave,rock;60;1395239
+2022-06-29;Elton John;3PhoLpVuITZKcymswpck5b;Elton John|glam rock,mellow gold,piano rock|82|9548262;Elton John;glam rock,mellow gold,piano rock;82;9548262
+2022-06-29;Strachy Na Lachy;4DXXg7xzgKAEYeFhh9wAtk;Strachy Na Lachy|polish alternative rock|45|156585;Strachy Na Lachy;polish alternative rock;45;156585
+2022-06-29;Billy Idol;7lzordPuZEXxwt9aoVZYmG;Billy Idol|album rock,classic rock,dance rock,hard rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock|67|1447251;Billy Idol;album rock,classic rock,dance rock,hard rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock;67;1447251
+2022-06-29;Placebo;6RZUqkomCmb8zCRqc9eznB;Placebo|alternative rock,britpop,modern rock,permanent wave,rock|66|1668446;Placebo;alternative rock,britpop,modern rock,permanent wave,rock;66;1668446
+2022-06-29;Artur Rojek;2wmdMX0w131ZumU30P5WZH;Artur Rojek|polish alternative,polish indie,polish pop|51|129705;Artur Rojek;polish alternative,polish indie,polish pop;51;129705
+2022-06-29;Sting;0Ty63ceoRnnJKVEYP0VQpk;Sting|permanent wave,soft rock,sophisti-pop|69|2678900;Sting;permanent wave,soft rock,sophisti-pop;69;2678900
+2022-06-29;Ralph Kaminski;7l1IUcuGTEXMuD1aN3wFqw;Ralph Kaminski|polish alternative,polish pop|54|127182;Ralph Kaminski;polish alternative,polish pop;54;127182
+2022-06-29;Patrick The Pan;7vYfq6OMlGDw1IpTxar2h2;Patrick the Pan|polish alternative,polish indie,polish pop|37|16398;Patrick the Pan;polish alternative,polish indie,polish pop;37;16398
+2022-06-29;Adele;4dpARuHxo51G3z768sgnrY;Adele|british soul,pop,pop soul,uk pop|83|39512817;Adele;british soul,pop,pop soul,uk pop;83;39512817
+2022-06-29;Jan Borysewicz;3aOdQc0HYtG1ZJoU5eyv8P;Jan Borysewicz||33|1326;Jan Borysewicz;;33;1326
+2022-06-29;Daria Zawiałow;0tdKRrbItnLj40yUFi23jx;Daria Zawiałow|polish alternative,polish indie,polish pop|61|321484;Daria Zawiałow;polish alternative,polish indie,polish pop;61;321484
+2022-06-29;Muchy;09Z3SI4GkhYjpCB6884vC8;Muchy|polish alternative,polish indie,polish indie rock,polish post-punk,poznan indie|36|15522;Muchy;polish alternative,polish indie,polish indie rock,polish post-punk,poznan indie;36;15522
+2022-06-29;Bitamina;2EJzUdaDAwfqcjpQcRAYdQ;Bitamina|polish alternative,polish indie,polish pop|45|126096;Bitamina;polish alternative,polish indie,polish pop;45;126096
+2022-06-29;Krzysztof Zalewski;1U1eSs7M2ENf09cDx4lavK;Krzysztof Zalewski|polish alternative rock,polish pop|53|189553;Krzysztof Zalewski;polish alternative rock,polish pop;53;189553
+2022-06-29;Organek;2cPIQ8eVSqSKGjBQXgi3WH;Organek|polish alternative,polish alternative rock,polish pop|46|205031;Organek;polish alternative,polish alternative rock,polish pop;46;205031
+2022-06-29;Kaśka Sochacka;3ClL18AtCAPwXVT6mUkBDN;Kaśka Sochacka|polish pop|52|55930;Kaśka Sochacka;polish pop;52;55930
+2022-06-29;Męskie Granie Orkiestra 2021;5xoXMR6Y8PORwObvyND9ZE;Męskie Granie Orkiestra 2021|polish alternative,polish pop|55|150138;Męskie Granie Orkiestra 2021;polish alternative,polish pop;55;150138
+2022-06-29;Dave Gahan;7hKXTmrq3ZppBx881yBbOr;Dave Gahan|alternative dance,new romantic,new wave,synthpop|42|172686;Dave Gahan;alternative dance,new romantic,new wave,synthpop;42;172686
+2022-06-29;The Rolling Stones;22bE4uQ6baNwSHPVcDxLCe;The Rolling Stones|british invasion,classic rock,rock|77|11843752;The Rolling Stones;british invasion,classic rock,rock;77;11843752
+2022-06-29;Fisz Emade Tworzywo;0YYxsW13yGiA2e80fu4VIA;Fisz Emade Tworzywo|polish alternative|44|101242;Fisz Emade Tworzywo;polish alternative;44;101242
+2022-06-29;Eric Clapton;6PAt558ZEZl0DmdXlnjMgD;Eric Clapton|album rock,blues rock,classic rock,electric blues,mellow gold,rock,soft rock|70|4957849;Eric Clapton;album rock,blues rock,classic rock,electric blues,mellow gold,rock,soft rock;70;4957849
+2022-06-29;Red Hot Chili Peppers;0L8ExT028jH3ddEcZwqJJ5;Red Hot Chili Peppers|alternative rock,funk metal,funk rock,permanent wave|81|18269586;Red Hot Chili Peppers;alternative rock,funk metal,funk rock,permanent wave;81;18269586
+2022-06-29;Anieli;014XDYJJQpJHyaZyxpJrrB;Anieli||32|1339;Anieli;;32;1339
+2022-06-29;Aurora;1WgXqy2Dd70QQOU7Ay074N;AURORA|art pop,norwegian pop|71|2320381;AURORA;art pop,norwegian pop;71;2320381
+2022-06-29;Paweł Domagała;0Gk98lHv6LlqbWPwdMiga2;Paweł Domagała|polish pop|42|273795;Paweł Domagała;polish pop;42;273795
+2022-06-29;Igo;6I5JdHLVup9pIjn9g5K20N;Igo|polish alternative|50|12533;Igo;polish alternative;50;12533
+2022-06-29;Stromae;5j4HeCoUlzhfWtjAfM1acR;Stromae|belgian pop,g-house|72|2423438;Stromae;belgian pop,g-house;72;2423438
+2022-06-29;Voo Voo;4vC1DrwqCb43puGttDWlwL;Voo Voo|classic polish pop,polish alternative,polish blues,polish post-punk,polish rock|34|37766;Voo Voo;classic polish pop,polish alternative,polish blues,polish post-punk,polish rock;34;37766
+2022-06-29;Tears For Fears;4bthk9UfsYUYdcFyqxmSUU;Tears For Fears|new romantic,new wave,new wave pop,permanent wave,rock,sophisti-pop,synthpop|71|2424553;Tears For Fears;new romantic,new wave,new wave pop,permanent wave,rock,sophisti-pop,synthpop;71;2424553
+2022-06-29;Muse;12Chz98pHFMPJEknJQMWvI;Muse|modern rock,permanent wave,rock|74|7051935;Muse;modern rock,permanent wave,rock;74;7051935
+2022-06-29;Natalia Przybysz;03KLzHVK6la8dVop1iVI5x;Natalia Przybysz|poezja spiewana,polish alternative,polish pop|45|80312;Natalia Przybysz;poezja spiewana,polish alternative,polish pop;45;80312
+2022-06-29;Sorry Boys;0WX7MXOUx7elCFdxdgvdBU;Sorry Boys|polish alternative,polish pop|37|28988;Sorry Boys;polish alternative,polish pop;37;28988
+2022-06-29;Jack White;4FZ3j1oH43e7cukCALsCwf;Jack White|alternative rock,blues rock,garage rock,garage rock revival,modern blues rock,modern rock,punk blues,rock|59|1245305;Jack White;alternative rock,blues rock,garage rock,garage rock revival,modern blues rock,modern rock,punk blues,rock;59;1245305
+2022-06-29;T.Love;2L14uYIQePr3ZEutb6feZz;T.Love|polish pop,polish reggae,polish rock|48|167772;T.Love;polish pop,polish reggae,polish rock;48;167772
+2022-06-29;Marillion;7ai5TWiOG8g9Hds5AATS28;Marillion|album rock,art rock,classic rock,neo-progressive,progressive rock,symphonic rock|56|405955;Marillion;album rock,art rock,classic rock,neo-progressive,progressive rock,symphonic rock;56;405955
+2022-06-29;Ed Sheeran;6eUKZXaKkcviH0Ku9w2n3V;Ed Sheeran|pop,uk pop|90|99039015;Ed Sheeran;pop,uk pop;90;99039015
+2022-06-29;Olivia Vedder, Eddie Vedder, Glen Hansard;1cALtYxOIn4uWAfNdwcP4E;Olivia Vedder||35|4743;Olivia Vedder;;35;4743
+2022-06-29;Król;0gH4VBwt5MwWomiOXloDC4;KRÓL|polish alternative,polish indie|48|28738;KRÓL;polish alternative,polish indie;48;28738
+2022-06-29;Bryan Adams;3Z02hBLubJxuFJfhacLSDc;Bryan Adams|canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,soft rock|73|2649039;Bryan Adams;canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,soft rock;73;2649039
+2022-06-29;Grzegorz Turnau;5bQZCiENsgmW4SvUOc86qI;Grzegorz Turnau|classic polish pop,poezja spiewana,sung poetry|53|47342;Grzegorz Turnau;classic polish pop,poezja spiewana,sung poetry;53;47342
+2022-06-29;Marcin Nowakowski;3enFhWFiJILf4OYGcTPdMy;Marcin Nowakowski|bajki|8|304;Marcin Nowakowski;bajki;8;304
+2022-06-29;Sokół;5Kuxl5ZenCl9fYzmtin6ot;Sokół|polish hip hop|56|225801;Sokół;polish hip hop;56;225801
+2022-06-29;Riverside;5yjbUO1Jocui7RKE30zfLT;Riverside|neo-progressive,polish prog,prog metal,progressive metal,progressive rock,symphonic rock|43|169358;Riverside;neo-progressive,polish prog,prog metal,progressive metal,progressive rock,symphonic rock;43;169358
+2022-06-29;Archive;1Q776wzj2mrtXrNu3iH6nk;Archive|electronica,trip hop|48|235950;Archive;electronica,trip hop;48;235950
+2022-06-29;Bovska;4E8L0A5xtDhcMaeBO7p0eg;Bovska|polish alternative,polish pop|36|64913;Bovska;polish alternative,polish pop;36;64913
+2022-06-29;U2;51Blml2LZPmy7TTiAg47vQ;U2|irish rock,permanent wave,rock|76|9889354;U2;irish rock,permanent wave,rock;76;9889354
+2022-06-29;ZAZ;1mbgj8ERPs8lWi7t5cYrdy;Zaz|chanson,french jazz,nouvelle chanson francaise|61|1326682;Zaz;chanson,french jazz,nouvelle chanson francaise;61;1326682
+2022-06-30;Myslovitz;3sntDD4Y2K97qvDq3GPqZ5;Myslovitz|polish alternative,polish alternative rock,polish indie,polish indie rock,polish pop,polish rock|48|181373;Myslovitz;polish alternative,polish alternative rock,polish indie,polish indie rock,polish pop,polish rock;48;181373
+2022-06-30;Pablopavo i Ludziki;5y7leUjjrhUswowWshGpCi;Pablopavo i Ludziki|polish alternative,polish reggae|35|19312;Pablopavo i Ludziki;polish alternative,polish reggae;35;19312
+2022-06-30;Sosnowski;41qXa50750tdWTyhtp1iCq;Sosnowski|polish blues|29|4021;Sosnowski;polish blues;29;4021
+2022-06-30;Pink Floyd;0k17h0D3J5VfsdmQ1iZtE9;Pink Floyd|album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock|77|17149938;Pink Floyd;album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock;77;17149938
+2022-06-30;Mick Jagger;3d2pb1dHTm8b61zAGVUVvO;Mick Jagger|album rock,blues rock,classic rock,dance rock,mellow gold,rock,soft rock|56|455184;Mick Jagger;album rock,blues rock,classic rock,dance rock,mellow gold,rock,soft rock;56;455184
+2022-06-30;Sanah;0TMvoNR0AIJV138mHY6jdE;sanah|polish pop|70|1333566;sanah;polish pop;70;1333566
+2022-06-30;Kwiat Jabłoni;53l3yjX8ITilPIlCRsVKEB;Kwiat Jabłoni|polish alternative,polish pop|60|204308;Kwiat Jabłoni;polish alternative,polish pop;60;204308
+2022-06-30;Artist For Ukraine;3BzNLpnqZ1IMvso6rdIeUh;Artists for Ukraine||8|32;Artists for Ukraine;;8;32
+2022-06-30;Kirk Hammett;2ePzbA0F0TD96Na0MEB2Cf;Kirk Hammett||35|25942;Kirk Hammett;;35;25942
+2022-06-30;Harry Styles;6KImCVD70vtIoJWnq6nGn3;Harry Styles|pop|93|21691851;Harry Styles;pop;93;21691851
+2022-06-30;Michelle Gurevich;2lP3Fx1aGCbQvH1F6i5Qeg;Michelle Gurevich|slowcore|45|91112;Michelle Gurevich;slowcore;45;91112
+2022-06-30;Bokka;6R2e6FSXY9vhgOulV08FO3;BOKKA|polish alternative,polish electronica,polish indie|36|40986;BOKKA;polish alternative,polish electronica,polish indie;36;40986
+2022-06-30;Polskie Znaki;51mMxJU8FRsiFRbXnYB3or;Polskie Znaki|polish alternative|27|1398;Polskie Znaki;polish alternative;27;1398
+2022-06-30;Florence And The Machine;1moxjboGR7GNWYIMWsRjgG;Florence + The Machine|baroque pop,pop,uk alternative pop|75|5974070;Florence + The Machine;baroque pop,pop,uk alternative pop;75;5974070
+2022-06-30;Rammstein;6wWVKhxIU2cEi0K81v7HvP;Rammstein|alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte|79|7314196;Rammstein;alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte;79;7314196
+2022-06-30;Kae Tempest;1YcprGtF13BYCZQK9jYPEw;Kae Tempest|lgbtq+ hip hop,slam poetry|46|177240;Kae Tempest;lgbtq+ hip hop,slam poetry;46;177240
+2022-06-30;Tori Amos;1KsASRNugxU85T0u6zSg32;Tori Amos|dark pop,ectofolk,lilith,melancholia,new wave pop,permanent wave,piano rock,pop rock,singer-songwriter|54|647502;Tori Amos;dark pop,ectofolk,lilith,melancholia,new wave pop,permanent wave,piano rock,pop rock,singer-songwriter;54;647502
+2022-06-30;Ewa Bem;6E6qou5XcK7fjR7Ikvq0AP;Ewa Bem|classic polish pop|28|13882;Ewa Bem;classic polish pop;28;13882
+2022-06-30;Hidden By Ivy;2nfwzENcmwKAejFHkmOl0J;Hidden By Ivy|polish post-punk|8|794;Hidden By Ivy;polish post-punk;8;794
+2022-06-30;Röyksopp;5nPOO9iTcrs9k6yFffPxjH;Röyksopp|alternative dance,big beat,downtempo,electronica,electropop,trip hop|59|799647;Röyksopp;alternative dance,big beat,downtempo,electronica,electropop,trip hop;59;799647
+2022-06-30;WaluśKraksaKryzys;4kOWvyAkvmkCrIHwW3bODd;WaluśKraksaKryzys|polish alternative,polish indie rock,polish post-punk|40|11721;WaluśKraksaKryzys;polish alternative,polish indie rock,polish post-punk;40;11721
+2022-06-30;Czesław Mozil;5rDWHA1JYXY31soG6Os9cY;Czesław Śpiewa|poezja spiewana,polish alternative|35|59351;Czesław Śpiewa;poezja spiewana,polish alternative;35;59351
+2022-06-30;Scorpions;27T030eWyCQRmDyuvr1kxY;Scorpions|album rock,german hard rock,german metal,german rock,hard rock,metal,rock|71|5679670;Scorpions;album rock,german hard rock,german metal,german rock,hard rock,metal,rock;71;5679670
+2022-06-30;Vito Bambino;5XGkLMcwitYFdwroktQs7o;Vito Bambino|polish alternative,polish pop|60|56531;Vito Bambino;polish alternative,polish pop;60;56531
+2022-06-30;Karaś/Rogucki;1ZAGaCgMaOtt2yOUm1Qq6x;KARAŚ/ROGUCKI|polish alternative|41|18705;KARAŚ/ROGUCKI;polish alternative;41;18705
+2022-06-30;Sheryl Crow;4TKTii6gnOnUXQHyuo9JaD;Sheryl Crow|lilith,mellow gold,new wave pop,permanent wave,pop rock,rock|65|913813;Sheryl Crow;lilith,mellow gold,new wave pop,permanent wave,pop rock,rock;65;913813
+2022-06-30;Blossoms;22RISwgVJyZu9lpqAcv1F5;Blossoms|english indie rock,modern rock,rock|58|394072;Blossoms;english indie rock,modern rock,rock;58;394072
+2022-06-30;DJ BRK;2jNxbYSRQ7pkrxVuOjES7n;DJ BRK||40|2189;DJ BRK;;40;2189
+2022-06-30;Ladaco;6smrG6QLzHOOBeIOzHx351;Ladaco|polish alternative|26|490;Ladaco;polish alternative;26;490
+2022-06-30;Michał Pepol;0gaIWmDwfXqZ3uMj72ccZ0;Michał Pepol||25|121;Michał Pepol;;25;121
+2022-06-30;Dawid Podsiadło;6EB8VE9f7Ut6NOgviN6gDW;Dawid Podsiadło|polish pop,talent show|66|1522369;Dawid Podsiadło;polish pop,talent show;66;1522369
+2022-06-30;Ørganek;2cPIQ8eVSqSKGjBQXgi3WH;Organek|polish alternative,polish alternative rock,polish pop|46|205098;Organek;polish alternative,polish alternative rock,polish pop;46;205098
+2022-06-30;David Paich;6zgKTqBOokh6IjLXOO5zfQ;David Paich||23|1042;David Paich;;23;1042
+2022-06-30;Editors;6e9wIFWhBPHLE9bXK8gtBI;Editors|alternative dance,britpop,indie rock,modern rock,rock|56|673015;Editors;alternative dance,britpop,indie rock,modern rock,rock;56;673015
+2022-06-30;Kate Bush;1aSxMhuvixZ8h9dK9jIDwL;Kate Bush|art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter|81|1173772;Kate Bush;art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter;81;1173772
+2022-06-30;Julia Kamińska;4jFzWphpCeC923MojgEp7V;Julia Kamińska||24|289;Julia Kamińska;;24;289
+2022-06-30;Porcupine Tree;5NXHXK6hOCotCF8lvGM1I0;Porcupine Tree|alternative metal,art rock,progressive metal,progressive rock,symphonic rock|57|561916;Porcupine Tree;alternative metal,art rock,progressive metal,progressive rock,symphonic rock;57;561916
+2022-06-30;Robert Plant;1OwarW4LEHnoep20ixRA0y;Robert Plant|album rock,art rock,blues rock,classic rock,country rock,hard rock,mellow gold,progressive rock,rock,roots rock,soft rock,symphonic rock,uk americana|58|952894;Robert Plant;album rock,art rock,blues rock,classic rock,country rock,hard rock,mellow gold,progressive rock,rock,roots rock,soft rock,symphonic rock,uk americana;58;952894
+2022-06-30;Mitch;2PQkXVCcXu0Nwf226rzGXq;Mitch & Mitch|polish alternative rock|34|4795;Mitch & Mitch;polish alternative rock;34;4795
+2022-06-30;Lady Gaga;1HY2Jd0NmPuamShAr6KMms;Lady Gaga|art pop,dance pop,pop|83|22483257;Lady Gaga;art pop,dance pop,pop;83;22483257
+2022-06-30;Męskie Granie Orkiestra 2022;1WbPJm4WVQvxOEQO1GEJy7;Męskie Granie Orkiestra 2022|polish pop|45|2325;Męskie Granie Orkiestra 2022;polish pop;45;2325
+2022-06-30;Jack Savoretti;7nC05zmJukRGYObQeRgg3x;Jack Savoretti|acoustic pop,neo mellow|53|266696;Jack Savoretti;acoustic pop,neo mellow;53;266696
+2022-06-30;LemON;3B4XG3HanBgkVOybc89Q3T;LemON|polish pop,rusyn folk|43|39880;LemON;polish pop,rusyn folk;43;39880
+2022-06-30;Classix Nouveaux;40PsC6cWe7ZQdOUTqF5JgD;Classix Nouveaux|new romantic,new wave,new wave pop,synthpop|28|22087;Classix Nouveaux;new romantic,new wave,new wave pop,synthpop;28;22087
+2022-06-30;Luxtorpeda;0D5kXlS7UOApMpTyuSrFAW;Luxtorpeda|polish punk,polish rock,poznan indie|37|45583;Luxtorpeda;polish punk,polish rock,poznan indie;37;45583
+2022-06-30;Administratorr Electro;6FPamV3tkyoMVnCBPejBVy;Administratorr Electro|polish synthpop|22|294;Administratorr Electro;polish synthpop;22;294
+2022-06-30;Mariusz Lubomski;05AVHcWP9DF6y6LEU845uz;Mariusz Lubomski|classic polish pop|18|2094;Mariusz Lubomski;classic polish pop;18;2094
+2022-06-30;MARO;3NP4jJcW3R6qO6rbtnH0wn;MARO|musica portuguesa contemporanea|57|71294;MARO;musica portuguesa contemporanea;57;71294
+2022-06-30;Stanisława Celińska;0sijpMmVF9ui4micUVn9d6;Stanisława Celińska|classic polish pop|28|5071;Stanisława Celińska;classic polish pop;28;5071
+2022-06-30;Kalush Orchestra;46rVVJwHWNS7C7MaWXd842;KALUSH|ukrainian hip hop,ukrainian pop,ukrainian viral pop|62|217581;KALUSH;ukrainian hip hop,ukrainian pop,ukrainian viral pop;62;217581
+2022-06-30;The Waterboys;5TnuP42pw475UrjjeabtwZ;The Waterboys|art rock,celtic rock,new wave pop,rock,scottish new wave,scottish rock|55|217660;The Waterboys;art rock,celtic rock,new wave pop,rock,scottish new wave,scottish rock;55;217660
+2022-06-30;Dawid Tyszkowski;2Lp4rVUJ5ZRZfT8wkWF81K;Dawid Tyszkowski||34|829;Dawid Tyszkowski;;34;829
+2022-06-30;Franio Mucha;2l1ha2vETw02TOEdpepvEx;Franio Mucha||14|114;Franio Mucha;;14;114
+2022-06-30;Architects;3ZztVuWxHzNpl0THurTFCv;Architects|mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore|61|719791;Architects;mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore;61;719791
+2022-06-30;Foo Fighters;7jy3rLJdDQY21OgRLCZ9sD;Foo Fighters|alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock|75|10012070;Foo Fighters;alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock;75;10012070
+2022-06-30;Tears For Fears;4bthk9UfsYUYdcFyqxmSUU;Tears For Fears|new romantic,new wave,new wave pop,permanent wave,rock,sophisti-pop,synthpop|71|2425817;Tears For Fears;new romantic,new wave,new wave pop,permanent wave,rock,sophisti-pop,synthpop;71;2425817
+2022-06-30;Red Hot Chili Peppers;0L8ExT028jH3ddEcZwqJJ5;Red Hot Chili Peppers|alternative rock,funk metal,funk rock,permanent wave|81|18274887;Red Hot Chili Peppers;alternative rock,funk metal,funk rock,permanent wave;81;18274887
+2022-06-30;Iron Maiden;6mdiAmATAx73kdxrNrnlao;Iron Maiden|hard rock,metal,nwobhm,rock|72|7478242;Iron Maiden;hard rock,metal,nwobhm,rock;72;7478242
+2022-06-30;Blurred Pink;420ExMrSqalFaHc9dypLlN;blurred pink||17|792;blurred pink;;17;792
+2022-06-30;Maria Peszek;2bJ904AqmK8LRH9fGShlQM;Maria Peszek|classic polish pop,poezja spiewana,polish alternative,polish pop|39|65152;Maria Peszek;classic polish pop,poezja spiewana,polish alternative,polish pop;39;65152
+2022-06-30;Michael Kiwanuka;0bzfPKdbXL5ezYW2z3UGQj;Michael Kiwanuka|british soul,neo soul,psychedelic soul,soul|62|1233679;Michael Kiwanuka;british soul,neo soul,psychedelic soul,soul;62;1233679
+2022-06-30;Diana Ross;3MdG05syQeRYPPcClLaUGl;Diana Ross|adult standards,disco,motown,quiet storm,soft rock,soul|66|1471834;Diana Ross;adult standards,disco,motown,quiet storm,soft rock,soul;66;1471834
+2022-06-30;Bluszcz;4QUfzPnzzNf93Y6VKxZVlD;Bluszcz|polish alternative,polish electronica|35|7976;Bluszcz;polish alternative,polish electronica;35;7976
+2022-06-30;Eddie Vedder;0mXTJETA4XUa12MmmXxZJh;Eddie Vedder|acoustic rock,permanent wave,rock|60|1395539;Eddie Vedder;acoustic rock,permanent wave,rock;60;1395539
+2022-06-30;Elton John;3PhoLpVuITZKcymswpck5b;Elton John|glam rock,mellow gold,piano rock|82|9554416;Elton John;glam rock,mellow gold,piano rock;82;9554416
+2022-06-30;Strachy Na Lachy;4DXXg7xzgKAEYeFhh9wAtk;Strachy Na Lachy|polish alternative rock|45|156665;Strachy Na Lachy;polish alternative rock;45;156665
+2022-06-30;Billy Idol;7lzordPuZEXxwt9aoVZYmG;Billy Idol|album rock,classic rock,dance rock,hard rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock|67|1447916;Billy Idol;album rock,classic rock,dance rock,hard rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock;67;1447916
+2022-06-30;Placebo;6RZUqkomCmb8zCRqc9eznB;Placebo|alternative rock,britpop,modern rock,permanent wave,rock|66|1668987;Placebo;alternative rock,britpop,modern rock,permanent wave,rock;66;1668987
+2022-06-30;Artur Rojek;2wmdMX0w131ZumU30P5WZH;Artur Rojek|polish alternative,polish indie,polish pop|51|129794;Artur Rojek;polish alternative,polish indie,polish pop;51;129794
+2022-06-30;Sting;0Ty63ceoRnnJKVEYP0VQpk;Sting|permanent wave,soft rock,sophisti-pop|69|2679812;Sting;permanent wave,soft rock,sophisti-pop;69;2679812
+2022-06-30;Ralph Kaminski;7l1IUcuGTEXMuD1aN3wFqw;Ralph Kaminski|polish alternative,polish pop|54|127473;Ralph Kaminski;polish alternative,polish pop;54;127473
+2022-06-30;Patrick The Pan;7vYfq6OMlGDw1IpTxar2h2;Patrick the Pan|polish alternative,polish indie,polish pop|37|16424;Patrick the Pan;polish alternative,polish indie,polish pop;37;16424
+2022-06-30;Adele;4dpARuHxo51G3z768sgnrY;Adele|british soul,pop,pop soul,uk pop|83|39548448;Adele;british soul,pop,pop soul,uk pop;83;39548448
+2022-06-30;Jan Borysewicz;3aOdQc0HYtG1ZJoU5eyv8P;Jan Borysewicz||33|1326;Jan Borysewicz;;33;1326
+2022-06-30;Daria Zawiałow;0tdKRrbItnLj40yUFi23jx;Daria Zawiałow|polish alternative,polish indie,polish pop|61|321820;Daria Zawiałow;polish alternative,polish indie,polish pop;61;321820
+2022-06-30;Muchy;09Z3SI4GkhYjpCB6884vC8;Muchy|polish alternative,polish indie,polish indie rock,polish post-punk,poznan indie|36|15534;Muchy;polish alternative,polish indie,polish indie rock,polish post-punk,poznan indie;36;15534
+2022-06-30;Bitamina;2EJzUdaDAwfqcjpQcRAYdQ;Bitamina|polish alternative,polish indie,polish pop|45|126161;Bitamina;polish alternative,polish indie,polish pop;45;126161
+2022-06-30;Krzysztof Zalewski;1U1eSs7M2ENf09cDx4lavK;Krzysztof Zalewski|polish alternative rock,polish pop|53|189666;Krzysztof Zalewski;polish alternative rock,polish pop;53;189666
+2022-06-30;Organek;2cPIQ8eVSqSKGjBQXgi3WH;Organek|polish alternative,polish alternative rock,polish pop|46|205098;Organek;polish alternative,polish alternative rock,polish pop;46;205098
+2022-06-30;Kaśka Sochacka;3ClL18AtCAPwXVT6mUkBDN;Kaśka Sochacka|polish pop|52|56080;Kaśka Sochacka;polish pop;52;56080
+2022-06-30;Męskie Granie Orkiestra 2021;5xoXMR6Y8PORwObvyND9ZE;Męskie Granie Orkiestra 2021|polish alternative,polish pop|55|150767;Męskie Granie Orkiestra 2021;polish alternative,polish pop;55;150767
+2022-06-30;Fisz Emade Tworzywo;0YYxsW13yGiA2e80fu4VIA;Fisz Emade Tworzywo|polish alternative|43|101273;Fisz Emade Tworzywo;polish alternative;43;101273
+2022-06-30;Skubas;5BoG8WljgEsbLOtoK5IAok;SKUBAS|polish alternative,polish indie|38|25635;SKUBAS;polish alternative,polish indie;38;25635
+2022-06-30;Żurkowski;17ZrDcSLNOBMR1oz6w4DXs;Żurkowski|polish alternative|26|897;Żurkowski;polish alternative;26;897
+2022-06-30;Dave Gahan;7hKXTmrq3ZppBx881yBbOr;Dave Gahan|alternative dance,new romantic,new wave,synthpop|42|172758;Dave Gahan;alternative dance,new romantic,new wave,synthpop;42;172758
+2022-06-30;Gibbs;1T4HxOYolAEb5PadIVKdWZ;Gibbs|polish hip hop|64|52010;Gibbs;polish hip hop;64;52010
+2022-06-30;Anieli;014XDYJJQpJHyaZyxpJrrB;Anieli||32|1342;Anieli;;32;1342
+2022-06-30;Aurora;1WgXqy2Dd70QQOU7Ay074N;AURORA|art pop,norwegian pop|71|2321448;AURORA;art pop,norwegian pop;71;2321448
+2022-06-30;Paweł Domagała;0Gk98lHv6LlqbWPwdMiga2;Paweł Domagała|polish pop|42|273847;Paweł Domagała;polish pop;42;273847
+2022-06-30;Igo;6I5JdHLVup9pIjn9g5K20N;Igo|polish alternative|50|12571;Igo;polish alternative;50;12571
+2022-06-30;Stromae;5j4HeCoUlzhfWtjAfM1acR;Stromae|belgian pop,g-house|72|2425218;Stromae;belgian pop,g-house;72;2425218
+2022-06-30;Voo Voo;4vC1DrwqCb43puGttDWlwL;Voo Voo|classic polish pop,polish alternative,polish blues,polish post-punk,polish rock|34|37778;Voo Voo;classic polish pop,polish alternative,polish blues,polish post-punk,polish rock;34;37778
+2022-06-30;T.Love;2L14uYIQePr3ZEutb6feZz;T.Love|polish pop,polish reggae,polish rock|48|167888;T.Love;polish pop,polish reggae,polish rock;48;167888
+2022-06-30;Muse;12Chz98pHFMPJEknJQMWvI;Muse|modern rock,permanent wave,rock|74|7053295;Muse;modern rock,permanent wave,rock;74;7053295
+2022-06-30;Natalia Przybysz;03KLzHVK6la8dVop1iVI5x;Natalia Przybysz|poezja spiewana,polish alternative,polish pop|45|80357;Natalia Przybysz;poezja spiewana,polish alternative,polish pop;45;80357
+2022-06-30;Sorry Boys;0WX7MXOUx7elCFdxdgvdBU;Sorry Boys|polish alternative,polish pop|37|28999;Sorry Boys;polish alternative,polish pop;37;28999
+2022-06-30;Jack White;4FZ3j1oH43e7cukCALsCwf;Jack White|alternative rock,blues rock,garage rock,garage rock revival,modern blues rock,modern rock,punk blues,rock|59|1245709;Jack White;alternative rock,blues rock,garage rock,garage rock revival,modern blues rock,modern rock,punk blues,rock;59;1245709
+2022-06-30;Ed Sheeran;6eUKZXaKkcviH0Ku9w2n3V;Ed Sheeran|pop,uk pop|90|99083056;Ed Sheeran;pop,uk pop;90;99083056
+2022-06-30;Marillion;7ai5TWiOG8g9Hds5AATS28;Marillion|album rock,art rock,classic rock,neo-progressive,progressive rock,symphonic rock|56|406090;Marillion;album rock,art rock,classic rock,neo-progressive,progressive rock,symphonic rock;56;406090
+2022-06-30;U2;51Blml2LZPmy7TTiAg47vQ;U2|irish rock,permanent wave,rock|76|9892712;U2;irish rock,permanent wave,rock;76;9892712
+2022-06-30;Bovska;4E8L0A5xtDhcMaeBO7p0eg;Bovska|polish alternative,polish pop|36|64933;Bovska;polish alternative,polish pop;36;64933
+2022-06-30;Archive;1Q776wzj2mrtXrNu3iH6nk;Archive|electronica,trip hop|48|236017;Archive;electronica,trip hop;48;236017
+2022-06-30;Riverside;5yjbUO1Jocui7RKE30zfLT;Riverside|neo-progressive,polish prog,prog metal,progressive metal,progressive rock,symphonic rock|43|169409;Riverside;neo-progressive,polish prog,prog metal,progressive metal,progressive rock,symphonic rock;43;169409
+2022-06-30;Sokół;5Kuxl5ZenCl9fYzmtin6ot;Sokół|polish hip hop|56|225972;Sokół;polish hip hop;56;225972
+2022-06-30;ZAZ;1mbgj8ERPs8lWi7t5cYrdy;Zaz|chanson,french jazz,nouvelle chanson francaise|61|1327073;Zaz;chanson,french jazz,nouvelle chanson francaise;61;1327073
+2022-06-30;Grzegorz Turnau;5bQZCiENsgmW4SvUOc86qI;Grzegorz Turnau|classic polish pop,poezja spiewana,sung poetry|53|47360;Grzegorz Turnau;classic polish pop,poezja spiewana,sung poetry;53;47360
+2022-06-30;Bryan Adams;3Z02hBLubJxuFJfhacLSDc;Bryan Adams|canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,soft rock|73|2650286;Bryan Adams;canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,soft rock;73;2650286
+2022-06-30;Król;0gH4VBwt5MwWomiOXloDC4;KRÓL|polish alternative,polish indie|48|28762;KRÓL;polish alternative,polish indie;48;28762
+2022-06-30;Olivia Vedder, Eddie Vedder, Glen Hansard;1cALtYxOIn4uWAfNdwcP4E;Olivia Vedder||35|4749;Olivia Vedder;;35;4749
+2022-06-30;Marcin Nowakowski;3enFhWFiJILf4OYGcTPdMy;Marcin Nowakowski|bajki|8|305;Marcin Nowakowski;bajki;8;305
+2022-06-30;Eric Clapton;6PAt558ZEZl0DmdXlnjMgD;Eric Clapton|album rock,blues rock,classic rock,electric blues,mellow gold,rock,soft rock|70|4959517;Eric Clapton;album rock,blues rock,classic rock,electric blues,mellow gold,rock,soft rock;70;4959517
+2022-06-30;The Rolling Stones;22bE4uQ6baNwSHPVcDxLCe;The Rolling Stones|british invasion,classic rock,rock|77|11847362;The Rolling Stones;british invasion,classic rock,rock;77;11847362
+2022-06-30;Follow;13DQTaJffWrdyqeUe7Fzr2;The Following Sea||0|4;The Following Sea;;0;4
+2022-07-04;Fisz Emade Tworzywo;0YYxsW13yGiA2e80fu4VIA;Fisz Emade Tworzywo|polish alternative|43|101365;Fisz Emade Tworzywo;polish alternative;43;101365
+2022-07-04;Harry Styles;6KImCVD70vtIoJWnq6nGn3;Harry Styles|pop|93|21775405;Harry Styles;pop;93;21775405
+2022-07-04;Kaśka Sochacka;3ClL18AtCAPwXVT6mUkBDN;Kaśka Sochacka|polish pop|52|56724;Kaśka Sochacka;polish pop;52;56724
+2022-07-04;Rammstein;6wWVKhxIU2cEi0K81v7HvP;Rammstein|alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte|79|7330069;Rammstein;alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte;79;7330069
+2022-07-04;Sanah;0TMvoNR0AIJV138mHY6jdE;sanah|polish pop|69|1342947;sanah;polish pop;69;1342947
+2022-07-04;Mick Jagger;3d2pb1dHTm8b61zAGVUVvO;Mick Jagger|album rock,blues rock,classic rock,dance rock,mellow gold,rock,soft rock|56|457253;Mick Jagger;album rock,blues rock,classic rock,dance rock,mellow gold,rock,soft rock;56;457253
+2022-07-04;Polskie Znaki;51mMxJU8FRsiFRbXnYB3or;Polskie Znaki|polish alternative|27|1399;Polskie Znaki;polish alternative;27;1399
+2022-07-04;Kwiat Jabłoni;53l3yjX8ITilPIlCRsVKEB;Kwiat Jabłoni|polish alternative,polish pop|60|205605;Kwiat Jabłoni;polish alternative,polish pop;60;205605
+2022-07-04;Anieli;014XDYJJQpJHyaZyxpJrrB;Anieli||32|1366;Anieli;;32;1366
+2022-07-04;T.Love;2L14uYIQePr3ZEutb6feZz;T.Love|polish pop,polish reggae,polish rock|48|168316;T.Love;polish pop,polish reggae,polish rock;48;168316
+2022-07-04;Igo;6I5JdHLVup9pIjn9g5K20N;Igo|polish alternative|51|12706;Igo;polish alternative;51;12706
+2022-07-04;Artist For Ukraine;3BzNLpnqZ1IMvso6rdIeUh;Artists for Ukraine||8|32;Artists for Ukraine;;8;32
+2022-07-04;Kirk Hammett;2ePzbA0F0TD96Na0MEB2Cf;Kirk Hammett||35|26024;Kirk Hammett;;35;26024
+2022-07-04;Vito Bambino;5XGkLMcwitYFdwroktQs7o;Vito Bambino|polish alternative,polish pop|60|57459;Vito Bambino;polish alternative,polish pop;60;57459
+2022-07-04;Sheryl Crow;4TKTii6gnOnUXQHyuo9JaD;Sheryl Crow|lilith,mellow gold,new wave pop,permanent wave,pop rock,rock|65|915328;Sheryl Crow;lilith,mellow gold,new wave pop,permanent wave,pop rock,rock;65;915328
+2022-07-04;Röyksopp;5nPOO9iTcrs9k6yFffPxjH;Röyksopp|alternative dance,big beat,downtempo,electronica,electropop,trip hop|59|800367;Röyksopp;alternative dance,big beat,downtempo,electronica,electropop,trip hop;59;800367
+2022-07-04;Architects;3ZztVuWxHzNpl0THurTFCv;Architects|mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore|61|720791;Architects;mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore;61;720791
+2022-07-04;Pink Floyd;0k17h0D3J5VfsdmQ1iZtE9;Pink Floyd|album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock|77|17173139;Pink Floyd;album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock;77;17173139
+2022-07-04;DJ BRK;2jNxbYSRQ7pkrxVuOjES7n;DJ BRK||40|2218;DJ BRK;;40;2218
+2022-07-04;Sosnowski;41qXa50750tdWTyhtp1iCq;Sosnowski|polish blues|28|4035;Sosnowski;polish blues;28;4035
+2022-07-04;Pablopavo i Ludziki;5y7leUjjrhUswowWshGpCi;Pablopavo i Ludziki|polish alternative,polish reggae|35|19347;Pablopavo i Ludziki;polish alternative,polish reggae;35;19347
+2022-07-04;Hidden By Ivy;2nfwzENcmwKAejFHkmOl0J;Hidden By Ivy|polish post-punk|8|795;Hidden By Ivy;polish post-punk;8;795
+2022-07-04;Placebo;6RZUqkomCmb8zCRqc9eznB;Placebo|alternative rock,britpop,modern rock,permanent wave,rock|66|1671546;Placebo;alternative rock,britpop,modern rock,permanent wave,rock;66;1671546
+2022-07-04;Tears For Fears;4bthk9UfsYUYdcFyqxmSUU;Tears For Fears|new romantic,new wave,new wave pop,permanent wave,rock,sophisti-pop,synthpop|71|2431263;Tears For Fears;new romantic,new wave,new wave pop,permanent wave,rock,sophisti-pop,synthpop;71;2431263
+2022-07-04;Ewa Bem;6E6qou5XcK7fjR7Ikvq0AP;Ewa Bem|classic polish pop|28|13928;Ewa Bem;classic polish pop;28;13928
+2022-07-04;Tori Amos;1KsASRNugxU85T0u6zSg32;Tori Amos|dark pop,ectofolk,lilith,melancholia,new wave pop,permanent wave,piano rock,pop rock,singer-songwriter|54|648561;Tori Amos;dark pop,ectofolk,lilith,melancholia,new wave pop,permanent wave,piano rock,pop rock,singer-songwriter;54;648561
+2022-07-04;Kae Tempest;1YcprGtF13BYCZQK9jYPEw;Kae Tempest|lgbtq+ hip hop,slam poetry|46|177543;Kae Tempest;lgbtq+ hip hop,slam poetry;46;177543
+2022-07-04;Florence And The Machine;1moxjboGR7GNWYIMWsRjgG;Florence + The Machine|baroque pop,pop,uk alternative pop|75|5978275;Florence + The Machine;baroque pop,pop,uk alternative pop;75;5978275
+2022-07-04;Karaś/Rogucki;1ZAGaCgMaOtt2yOUm1Qq6x;KARAŚ/ROGUCKI|polish alternative|41|18779;KARAŚ/ROGUCKI;polish alternative;41;18779
+2022-07-04;Michelle Gurevich;2lP3Fx1aGCbQvH1F6i5Qeg;Michelle Gurevich|slowcore|45|91308;Michelle Gurevich;slowcore;45;91308
+2022-07-04;Eddie Vedder;0mXTJETA4XUa12MmmXxZJh;Eddie Vedder|acoustic rock,permanent wave,rock|60|1396863;Eddie Vedder;acoustic rock,permanent wave,rock;60;1396863
+2022-07-04;Muse;12Chz98pHFMPJEknJQMWvI;Muse|modern rock,permanent wave,rock|74|7058841;Muse;modern rock,permanent wave,rock;74;7058841
+2022-07-04;Myslovitz;3sntDD4Y2K97qvDq3GPqZ5;Myslovitz|polish alternative,polish alternative rock,polish indie,polish indie rock,polish pop,polish rock|48|181772;Myslovitz;polish alternative,polish alternative rock,polish indie,polish indie rock,polish pop,polish rock;48;181772
+2022-07-04;Archive;1Q776wzj2mrtXrNu3iH6nk;Archive|electronica,trip hop|48|236262;Archive;electronica,trip hop;48;236262
+2022-07-04;Franio Mucha;2l1ha2vETw02TOEdpepvEx;Franio Mucha||14|117;Franio Mucha;;14;117
+2022-07-04;Voo Voo;4vC1DrwqCb43puGttDWlwL;Voo Voo|classic polish pop,polish alternative,polish blues,polish post-punk,polish rock|34|37826;Voo Voo;classic polish pop,polish alternative,polish blues,polish post-punk,polish rock;34;37826
+2022-07-04;Muchy;09Z3SI4GkhYjpCB6884vC8;Muchy|polish alternative,polish indie,polish indie rock,polish post-punk,poznan indie|36|15576;Muchy;polish alternative,polish indie,polish indie rock,polish post-punk,poznan indie;36;15576
+2022-07-04;Ralph Kaminski;7l1IUcuGTEXMuD1aN3wFqw;Ralph Kaminski|polish alternative,polish pop|54|128799;Ralph Kaminski;polish alternative,polish pop;54;128799
+2022-07-04;Julia Kamińska;4jFzWphpCeC923MojgEp7V;Julia Kamińska||24|292;Julia Kamińska;;24;292
+2022-07-04;Kate Bush;1aSxMhuvixZ8h9dK9jIDwL;Kate Bush|art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter|81|1198566;Kate Bush;art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter;81;1198566
+2022-07-04;Administratorr Electro;6FPamV3tkyoMVnCBPejBVy;Administratorr Electro|polish synthpop|21|307;Administratorr Electro;polish synthpop;21;307
+2022-07-04;Editors;6e9wIFWhBPHLE9bXK8gtBI;Editors|alternative dance,alternative rock,britpop,indie rock,modern rock,rock|56|673671;Editors;alternative dance,alternative rock,britpop,indie rock,modern rock,rock;56;673671
+2022-07-04;David Paich;6zgKTqBOokh6IjLXOO5zfQ;David Paich||23|1062;David Paich;;23;1062
+2022-07-04;Ørganek;2cPIQ8eVSqSKGjBQXgi3WH;Organek|polish alternative,polish alternative rock,polish pop|46|205311;Organek;polish alternative,polish alternative rock,polish pop;46;205311
+2022-07-04;Dawid Podsiadło;6EB8VE9f7Ut6NOgviN6gDW;Dawid Podsiadło|polish pop,talent show|66|1525801;Dawid Podsiadło;polish pop,talent show;66;1525801
+2022-07-04;Michał Pepol;0gaIWmDwfXqZ3uMj72ccZ0;Michał Pepol||25|123;Michał Pepol;;25;123
+2022-07-04;Gibbs;1T4HxOYolAEb5PadIVKdWZ;Gibbs|polish hip hop|64|52664;Gibbs;polish hip hop;64;52664
+2022-07-04;Follow;13DQTaJffWrdyqeUe7Fzr2;The Following Sea||0|4;The Following Sea;;0;4
+2022-07-04;Porcupine Tree;5NXHXK6hOCotCF8lvGM1I0;Porcupine Tree|alternative metal,art rock,progressive metal,progressive rock,symphonic rock|58|563481;Porcupine Tree;alternative metal,art rock,progressive metal,progressive rock,symphonic rock;58;563481
+2022-07-04;Diana Ross;3MdG05syQeRYPPcClLaUGl;Diana Ross|adult standards,disco,motown,quiet storm,soft rock,soul|66|1473765;Diana Ross;adult standards,disco,motown,quiet storm,soft rock,soul;66;1473765
+2022-07-04;Robert Plant;1OwarW4LEHnoep20ixRA0y;Robert Plant|album rock,art rock,blues rock,classic rock,hard rock,mellow gold,progressive rock,rock,roots rock,soft rock,symphonic rock,uk americana|58|954070;Robert Plant;album rock,art rock,blues rock,classic rock,hard rock,mellow gold,progressive rock,rock,roots rock,soft rock,symphonic rock,uk americana;58;954070
+2022-07-04;Mitch;2PQkXVCcXu0Nwf226rzGXq;Mitch & Mitch|polish alternative rock|34|4802;Mitch & Mitch;polish alternative rock;34;4802
+2022-07-04;Dawid Tyszkowski;2Lp4rVUJ5ZRZfT8wkWF81K;Dawid Tyszkowski||34|885;Dawid Tyszkowski;;34;885
+2022-07-04;The Waterboys;5TnuP42pw475UrjjeabtwZ;The Waterboys|art rock,celtic rock,new wave pop,rock,scottish new wave,scottish rock|55|218081;The Waterboys;art rock,celtic rock,new wave pop,rock,scottish new wave,scottish rock;55;218081
+2022-07-04;Kalush Orchestra;46rVVJwHWNS7C7MaWXd842;KALUSH|ukrainian hip hop,ukrainian pop,ukrainian viral pop|62|224518;KALUSH;ukrainian hip hop,ukrainian pop,ukrainian viral pop;62;224518
+2022-07-04;Stanisława Celińska;0sijpMmVF9ui4micUVn9d6;Stanisława Celińska|classic polish pop|27|5079;Stanisława Celińska;classic polish pop;27;5079
+2022-07-04;MARO;3NP4jJcW3R6qO6rbtnH0wn;MARO|musica portuguesa contemporanea|57|71546;MARO;musica portuguesa contemporanea;57;71546
+2022-07-04;Mariusz Lubomski;05AVHcWP9DF6y6LEU845uz;Mariusz Lubomski|classic polish pop|18|2107;Mariusz Lubomski;classic polish pop;18;2107
+2022-07-04;WaluśKraksaKryzys;4kOWvyAkvmkCrIHwW3bODd;WaluśKraksaKryzys|polish alternative,polish indie rock,polish post-punk|40|11768;WaluśKraksaKryzys;polish alternative,polish indie rock,polish post-punk;40;11768
+2022-07-04;Classix Nouveaux;40PsC6cWe7ZQdOUTqF5JgD;Classix Nouveaux|new romantic,new wave,new wave pop,synthpop|28|22127;Classix Nouveaux;new romantic,new wave,new wave pop,synthpop;28;22127
+2022-07-04;LemON;3B4XG3HanBgkVOybc89Q3T;LemON|polish pop,rusyn folk|43|39967;LemON;polish pop,rusyn folk;43;39967
+2022-07-04;Blossoms;22RISwgVJyZu9lpqAcv1F5;Blossoms|modern rock,rock|58|394691;Blossoms;modern rock,rock;58;394691
+2022-07-04;Jack Savoretti;7nC05zmJukRGYObQeRgg3x;Jack Savoretti|acoustic pop,neo mellow|53|266967;Jack Savoretti;acoustic pop,neo mellow;53;266967
+2022-07-04;Męskie Granie Orkiestra 2022;1WbPJm4WVQvxOEQO1GEJy7;Męskie Granie Orkiestra 2022|polish pop|46|2594;Męskie Granie Orkiestra 2022;polish pop;46;2594
+2022-07-04;Lady Gaga;1HY2Jd0NmPuamShAr6KMms;Lady Gaga|art pop,dance pop,pop|83|22521696;Lady Gaga;art pop,dance pop,pop;83;22521696
+2022-07-04;Luxtorpeda;0D5kXlS7UOApMpTyuSrFAW;Luxtorpeda|polish punk,polish rock,poznan indie|37|45637;Luxtorpeda;polish punk,polish rock,poznan indie;37;45637
+2022-07-04;Czesław Mozil;5rDWHA1JYXY31soG6Os9cY;Czesław Śpiewa|poezja spiewana,polish alternative|35|59432;Czesław Śpiewa;poezja spiewana,polish alternative;35;59432
+2022-07-04;Bluszcz;4QUfzPnzzNf93Y6VKxZVlD;Bluszcz|polish alternative,polish electronica|35|8006;Bluszcz;polish alternative,polish electronica;35;8006
+2022-07-04;Krzysztof Zalewski;1U1eSs7M2ENf09cDx4lavK;Krzysztof Zalewski|polish alternative rock,polish pop|54|190127;Krzysztof Zalewski;polish alternative rock,polish pop;54;190127
+2022-07-04;Michael Kiwanuka;0bzfPKdbXL5ezYW2z3UGQj;Michael Kiwanuka|british soul,neo soul,psychedelic soul,soul|62|1235113;Michael Kiwanuka;british soul,neo soul,psychedelic soul,soul;62;1235113
+2022-07-04;Maria Peszek;2bJ904AqmK8LRH9fGShlQM;Maria Peszek|classic polish pop,poezja spiewana,polish alternative,polish pop|39|65240;Maria Peszek;classic polish pop,poezja spiewana,polish alternative,polish pop;39;65240
+2022-07-04;Blurred Pink;420ExMrSqalFaHc9dypLlN;blurred pink||17|795;blurred pink;;17;795
+2022-07-04;Sting;0Ty63ceoRnnJKVEYP0VQpk;Sting|permanent wave,soft rock,sophisti-pop|69|2683795;Sting;permanent wave,soft rock,sophisti-pop;69;2683795
+2022-07-04;Iron Maiden;6mdiAmATAx73kdxrNrnlao;Iron Maiden|hard rock,metal,nwobhm,rock|72|7493600;Iron Maiden;hard rock,metal,nwobhm,rock;72;7493600
+2022-07-04;Skubas;5BoG8WljgEsbLOtoK5IAok;SKUBAS|polish alternative,polish indie|37|25661;SKUBAS;polish alternative,polish indie;37;25661
+2022-07-04;Dave Gahan;7hKXTmrq3ZppBx881yBbOr;Dave Gahan|alternative dance,new romantic,new wave,synthpop|42|173068;Dave Gahan;alternative dance,new romantic,new wave,synthpop;42;173068
+2022-07-04;The Rolling Stones;22bE4uQ6baNwSHPVcDxLCe;The Rolling Stones|album rock,british invasion,classic rock,rock|77|11863579;The Rolling Stones;album rock,british invasion,classic rock,rock;77;11863579
+2022-07-04;Organek;2cPIQ8eVSqSKGjBQXgi3WH;Organek|polish alternative,polish alternative rock,polish pop|46|205311;Organek;polish alternative,polish alternative rock,polish pop;46;205311
+2022-07-04;Eric Clapton;6PAt558ZEZl0DmdXlnjMgD;Eric Clapton|album rock,blues rock,classic rock,electric blues,mellow gold,rock,soft rock|70|4966678;Eric Clapton;album rock,blues rock,classic rock,electric blues,mellow gold,rock,soft rock;70;4966678
+2022-07-04;Marcin Nowakowski;3enFhWFiJILf4OYGcTPdMy;Marcin Nowakowski|bajki|8|307;Marcin Nowakowski;bajki;8;307
+2022-07-04;Elton John;3PhoLpVuITZKcymswpck5b;Elton John|glam rock,mellow gold,piano rock|82|9581039;Elton John;glam rock,mellow gold,piano rock;82;9581039
+2022-07-04;Olivia Vedder, Eddie Vedder, Glen Hansard;1cALtYxOIn4uWAfNdwcP4E;Olivia Vedder||35|4770;Olivia Vedder;;35;4770
+2022-07-04;Strachy Na Lachy;4DXXg7xzgKAEYeFhh9wAtk;Strachy Na Lachy|polish alternative rock|45|156921;Strachy Na Lachy;polish alternative rock;45;156921
+2022-07-04;Scorpions;27T030eWyCQRmDyuvr1kxY;Scorpions|album rock,german hard rock,german metal,german rock,hard rock,metal,rock|71|5690726;Scorpions;album rock,german hard rock,german metal,german rock,hard rock,metal,rock;71;5690726
+2022-07-04;Bitamina;2EJzUdaDAwfqcjpQcRAYdQ;Bitamina|polish alternative,polish indie,polish pop|45|126323;Bitamina;polish alternative,polish indie,polish pop;45;126323
+2022-07-04;Daria Zawiałow;0tdKRrbItnLj40yUFi23jx;Daria Zawiałow|polish alternative,polish indie,polish pop|61|323188;Daria Zawiałow;polish alternative,polish indie,polish pop;61;323188
+2022-07-04;Jan Borysewicz;3aOdQc0HYtG1ZJoU5eyv8P;Jan Borysewicz||33|1333;Jan Borysewicz;;33;1333
+2022-07-04;Adele;4dpARuHxo51G3z768sgnrY;Adele|british soul,pop,pop soul,uk pop|83|39700424;Adele;british soul,pop,pop soul,uk pop;83;39700424
+2022-07-04;Patrick The Pan;7vYfq6OMlGDw1IpTxar2h2;Patrick the Pan|polish alternative,polish indie,polish pop|37|16519;Patrick the Pan;polish alternative,polish indie,polish pop;37;16519
+2022-07-04;Artur Rojek;2wmdMX0w131ZumU30P5WZH;Artur Rojek|polish alternative,polish indie,polish pop|50|130110;Artur Rojek;polish alternative,polish indie,polish pop;50;130110
+2022-07-04;Billy Idol;7lzordPuZEXxwt9aoVZYmG;Billy Idol|album rock,classic rock,dance rock,hard rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock|67|1450860;Billy Idol;album rock,classic rock,dance rock,hard rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock;67;1450860
+2022-07-04;Król;0gH4VBwt5MwWomiOXloDC4;KRÓL|polish alternative,polish indie|48|28824;KRÓL;polish alternative,polish indie;48;28824
+2022-07-04;Męskie Granie Orkiestra 2021;5xoXMR6Y8PORwObvyND9ZE;Męskie Granie Orkiestra 2021|polish alternative,polish pop|55|153359;Męskie Granie Orkiestra 2021;polish alternative,polish pop;55;153359
+2022-07-04;Stromae;5j4HeCoUlzhfWtjAfM1acR;Stromae|belgian pop,g-house|72|2432804;Stromae;belgian pop,g-house;72;2432804
+2022-07-04;Aurora;1WgXqy2Dd70QQOU7Ay074N;AURORA|art pop,norwegian pop|71|2325622;AURORA;art pop,norwegian pop;71;2325622
+2022-07-04;Red Hot Chili Peppers;0L8ExT028jH3ddEcZwqJJ5;Red Hot Chili Peppers|alternative rock,funk metal,funk rock,permanent wave|81|18297134;Red Hot Chili Peppers;alternative rock,funk metal,funk rock,permanent wave;81;18297134
+2022-07-04;Żurkowski;17ZrDcSLNOBMR1oz6w4DXs;Żurkowski|polish alternative|27|916;Żurkowski;polish alternative;27;916
+2022-07-04;Foo Fighters;7jy3rLJdDQY21OgRLCZ9sD;Foo Fighters|alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock|75|10022827;Foo Fighters;alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock;75;10022827
+2022-07-04;Ladaco;6smrG6QLzHOOBeIOzHx351;Ladaco|polish alternative|26|499;Ladaco;polish alternative;26;499
+2022-07-04;Bokka;6R2e6FSXY9vhgOulV08FO3;BOKKA|polish alternative,polish electronica,polish indie|36|41043;BOKKA;polish alternative,polish electronica,polish indie;36;41043
+2022-07-04;Bryan Adams;3Z02hBLubJxuFJfhacLSDc;Bryan Adams|canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,soft rock|73|2655802;Bryan Adams;canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,soft rock;73;2655802
+2022-07-04;Natalia Przybysz;03KLzHVK6la8dVop1iVI5x;Natalia Przybysz|poezja spiewana,polish alternative,polish pop|45|80480;Natalia Przybysz;poezja spiewana,polish alternative,polish pop;45;80480
+2022-07-04;Paweł Domagała;0Gk98lHv6LlqbWPwdMiga2;Paweł Domagała|polish pop|42|274035;Paweł Domagała;polish pop;42;274035
+2022-07-04;Grzegorz Turnau;5bQZCiENsgmW4SvUOc86qI;Grzegorz Turnau|classic polish pop,poezja spiewana,sung poetry|53|47459;Grzegorz Turnau;classic polish pop,poezja spiewana,sung poetry;53;47459
+2022-07-04;ZAZ;1mbgj8ERPs8lWi7t5cYrdy;Zaz|chanson,french jazz,nouvelle chanson francaise|61|1328922;Zaz;chanson,french jazz,nouvelle chanson francaise;61;1328922
+2022-07-04;Sokół;5Kuxl5ZenCl9fYzmtin6ot;Sokół|polish hip hop|56|226619;Sokół;polish hip hop;56;226619
+2022-07-04;Riverside;5yjbUO1Jocui7RKE30zfLT;Riverside|neo-progressive,polish prog,prog metal,progressive metal,progressive rock,symphonic rock|43|169601;Riverside;neo-progressive,polish prog,prog metal,progressive metal,progressive rock,symphonic rock;43;169601
+2022-07-04;Bovska;4E8L0A5xtDhcMaeBO7p0eg;Bovska|polish alternative,polish pop|37|65023;Bovska;polish alternative,polish pop;37;65023
+2022-07-04;U2;51Blml2LZPmy7TTiAg47vQ;U2|irish rock,permanent wave,rock|76|9908306;U2;irish rock,permanent wave,rock;76;9908306
+2022-07-04;Marillion;7ai5TWiOG8g9Hds5AATS28;Marillion|album rock,art rock,classic rock,neo-progressive,progressive rock,symphonic rock|56|406722;Marillion;album rock,art rock,classic rock,neo-progressive,progressive rock,symphonic rock;56;406722
+2022-07-04;Ed Sheeran;6eUKZXaKkcviH0Ku9w2n3V;Ed Sheeran|pop,uk pop|90|99275933;Ed Sheeran;pop,uk pop;90;99275933
+2022-07-04;Jack White;4FZ3j1oH43e7cukCALsCwf;Jack White|alternative rock,blues rock,garage rock,garage rock revival,modern blues rock,modern rock,punk blues,rock|59|1247299;Jack White;alternative rock,blues rock,garage rock,garage rock revival,modern blues rock,modern rock,punk blues,rock;59;1247299
+2022-07-04;Sorry Boys;0WX7MXOUx7elCFdxdgvdBU;Sorry Boys|polish alternative,polish pop|37|29030;Sorry Boys;polish alternative,polish pop;37;29030
+2022-07-04;Quebonafide;1fxbULcd6ryMNc1usHoP0R;Quebonafide|polish hip hop|64|1209484;Quebonafide;polish hip hop;64;1209484
+2022-07-04;Megadeth;1Yox196W7bzVNZI7RBaPnf;Megadeth|album rock,alternative metal,hard rock,melodic thrash,metal,old school thrash,rock,speed metal,thrash metal|68|4067262;Megadeth;album rock,alternative metal,hard rock,melodic thrash,metal,old school thrash,rock,speed metal,thrash metal;68;4067262
+2022-07-04;Maneskin;0lAWpj5szCSwM4rUMHYmrr;Måneskin|indie rock italiano,italian pop|78|6154272;Måneskin;indie rock italiano,italian pop;78;6154272
+2022-07-11;Fisz Emade Tworzywo;0YYxsW13yGiA2e80fu4VIA;Fisz Emade Tworzywo|polish alternative|43|101566;Fisz Emade Tworzywo;polish alternative;43;101566
+2022-07-11;Harry Styles;6KImCVD70vtIoJWnq6nGn3;Harry Styles|pop|93|21913643;Harry Styles;pop;93;21913643
+2022-07-11;Kaśka Sochacka;3ClL18AtCAPwXVT6mUkBDN;Kaśka Sochacka|polish pop|52|57778;Kaśka Sochacka;polish pop;52;57778
+2022-07-11;Rammstein;6wWVKhxIU2cEi0K81v7HvP;Rammstein|alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte|79|7358325;Rammstein;alternative metal,german metal,industrial,industrial metal,industrial rock,neue deutsche harte;79;7358325
+2022-07-11;Sanah;0TMvoNR0AIJV138mHY6jdE;sanah|polish pop|69|1359269;sanah;polish pop;69;1359269
+2022-07-11;Mick Jagger;3d2pb1dHTm8b61zAGVUVvO;Mick Jagger|album rock,blues rock,classic rock,dance rock,mellow gold,rock,soft rock|56|460724;Mick Jagger;album rock,blues rock,classic rock,dance rock,mellow gold,rock,soft rock;56;460724
+2022-07-11;Polskie Znaki;51mMxJU8FRsiFRbXnYB3or;Polskie Znaki|polish alternative|26|1413;Polskie Znaki;polish alternative;26;1413
+2022-07-11;Kwiat Jabłoni;53l3yjX8ITilPIlCRsVKEB;Kwiat Jabłoni|polish alternative,polish pop|60|207824;Kwiat Jabłoni;polish alternative,polish pop;60;207824
+2022-07-11;Anieli;014XDYJJQpJHyaZyxpJrrB;Anieli||33|1394;Anieli;;33;1394
+2022-07-11;T.Love;2L14uYIQePr3ZEutb6feZz;T.Love|polish pop,polish reggae,polish rock|48|168964;T.Love;polish pop,polish reggae,polish rock;48;168964
+2022-07-11;Igo;6I5JdHLVup9pIjn9g5K20N;Igo|polish alternative|51|12935;Igo;polish alternative;51;12935
+2022-07-11;Artist For Ukraine;3BzNLpnqZ1IMvso6rdIeUh;Artists for Ukraine||7|33;Artists for Ukraine;;7;33
+2022-07-11;Kirk Hammett;2ePzbA0F0TD96Na0MEB2Cf;Kirk Hammett||34|26260;Kirk Hammett;;34;26260
+2022-07-11;Vito Bambino;5XGkLMcwitYFdwroktQs7o;Vito Bambino|polish alternative,polish pop|60|58865;Vito Bambino;polish alternative,polish pop;60;58865
+2022-07-11;Sheryl Crow;4TKTii6gnOnUXQHyuo9JaD;Sheryl Crow|lilith,mellow gold,new wave pop,permanent wave,pop rock,rock|65|917841;Sheryl Crow;lilith,mellow gold,new wave pop,permanent wave,pop rock,rock;65;917841
+2022-07-11;Röyksopp;5nPOO9iTcrs9k6yFffPxjH;Röyksopp|alternative dance,big beat,downtempo,electronica,electropop,trip hop|59|801803;Röyksopp;alternative dance,big beat,downtempo,electronica,electropop,trip hop;59;801803
+2022-07-11;Architects;3ZztVuWxHzNpl0THurTFCv;Architects|mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore|61|722487;Architects;mathcore,melodic metalcore,metalcore,progressive metalcore,uk metalcore;61;722487
+2022-07-11;Pink Floyd;0k17h0D3J5VfsdmQ1iZtE9;Pink Floyd|album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock|77|17211347;Pink Floyd;album rock,art rock,classic rock,progressive rock,psychedelic rock,rock,symphonic rock;77;17211347
+2022-07-11;DJ BRK;2jNxbYSRQ7pkrxVuOjES7n;DJ BRK||41|2237;DJ BRK;;41;2237
+2022-07-11;Sosnowski;41qXa50750tdWTyhtp1iCq;Sosnowski|polish blues|28|4054;Sosnowski;polish blues;28;4054
+2022-07-11;Pablopavo i Ludziki;5y7leUjjrhUswowWshGpCi;Pablopavo i Ludziki|polish alternative,polish reggae|35|19407;Pablopavo i Ludziki;polish alternative,polish reggae;35;19407
+2022-07-11;Hidden By Ivy;2nfwzENcmwKAejFHkmOl0J;Hidden By Ivy|polish post-punk|8|796;Hidden By Ivy;polish post-punk;8;796
+2022-07-11;Placebo;6RZUqkomCmb8zCRqc9eznB;Placebo|alternative rock,britpop,modern rock,permanent wave,rock|66|1676081;Placebo;alternative rock,britpop,modern rock,permanent wave,rock;66;1676081
+2022-07-11;Tears For Fears;4bthk9UfsYUYdcFyqxmSUU;Tears For Fears|new romantic,new wave,new wave pop,permanent wave,rock,sophisti-pop,synthpop|71|2441103;Tears For Fears;new romantic,new wave,new wave pop,permanent wave,rock,sophisti-pop,synthpop;71;2441103
+2022-07-11;Ewa Bem;6E6qou5XcK7fjR7Ikvq0AP;Ewa Bem|classic polish pop|28|13993;Ewa Bem;classic polish pop;28;13993
+2022-07-11;Tori Amos;1KsASRNugxU85T0u6zSg32;Tori Amos|dark pop,ectofolk,lilith,melancholia,new wave pop,permanent wave,piano rock,pop rock,singer-songwriter|54|650383;Tori Amos;dark pop,ectofolk,lilith,melancholia,new wave pop,permanent wave,piano rock,pop rock,singer-songwriter;54;650383
+2022-07-11;Kae Tempest;1YcprGtF13BYCZQK9jYPEw;Kae Tempest|lgbtq+ hip hop,slam poetry|46|178035;Kae Tempest;lgbtq+ hip hop,slam poetry;46;178035
+2022-07-11;Florence And The Machine;1moxjboGR7GNWYIMWsRjgG;Florence + The Machine|baroque pop,pop,uk alternative pop|75|5986949;Florence + The Machine;baroque pop,pop,uk alternative pop;75;5986949
+2022-07-11;Karaś/Rogucki;1ZAGaCgMaOtt2yOUm1Qq6x;KARAŚ/ROGUCKI|polish alternative|41|18910;KARAŚ/ROGUCKI;polish alternative;41;18910
+2022-07-11;Michelle Gurevich;2lP3Fx1aGCbQvH1F6i5Qeg;Michelle Gurevich|slowcore|45|91595;Michelle Gurevich;slowcore;45;91595
+2022-07-11;Eddie Vedder;0mXTJETA4XUa12MmmXxZJh;Eddie Vedder|acoustic rock,permanent wave,rock|60|1399088;Eddie Vedder;acoustic rock,permanent wave,rock;60;1399088
+2022-07-11;Muse;12Chz98pHFMPJEknJQMWvI;Muse|modern rock,permanent wave,rock|74|7068641;Muse;modern rock,permanent wave,rock;74;7068641
+2022-07-11;Myslovitz;3sntDD4Y2K97qvDq3GPqZ5;Myslovitz|polish alternative,polish alternative rock,polish indie,polish indie rock,polish pop,polish rock|48|182444;Myslovitz;polish alternative,polish alternative rock,polish indie,polish indie rock,polish pop,polish rock;48;182444
+2022-07-11;Archive;1Q776wzj2mrtXrNu3iH6nk;Archive|electronica,trip hop|47|236707;Archive;electronica,trip hop;47;236707
+2022-07-11;Franio Mucha;2l1ha2vETw02TOEdpepvEx;Franio Mucha||14|121;Franio Mucha;;14;121
+2022-07-11;Voo Voo;4vC1DrwqCb43puGttDWlwL;Voo Voo|classic polish pop,polish alternative,polish blues,polish post-punk,polish rock|34|37913;Voo Voo;classic polish pop,polish alternative,polish blues,polish post-punk,polish rock;34;37913
+2022-07-11;Muchy;09Z3SI4GkhYjpCB6884vC8;Muchy|polish alternative,polish indie,polish indie rock,polish post-punk,poznan indie|36|15633;Muchy;polish alternative,polish indie,polish indie rock,polish post-punk,poznan indie;36;15633
+2022-07-11;Ralph Kaminski;7l1IUcuGTEXMuD1aN3wFqw;Ralph Kaminski|polish alternative,polish pop|55|130481;Ralph Kaminski;polish alternative,polish pop;55;130481
+2022-07-11;Julia Kamińska;4jFzWphpCeC923MojgEp7V;Julia Kamińska||24|298;Julia Kamińska;;24;298
+2022-07-11;Kate Bush;1aSxMhuvixZ8h9dK9jIDwL;Kate Bush|art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter,uk pop|82|1241561;Kate Bush;art pop,art rock,baroque pop,new wave pop,permanent wave,piano rock,singer-songwriter,uk pop;82;1241561
+2022-07-11;Administratorr Electro;6FPamV3tkyoMVnCBPejBVy;Administratorr Electro|polish synthpop|21|331;Administratorr Electro;polish synthpop;21;331
+2022-07-11;Editors;6e9wIFWhBPHLE9bXK8gtBI;Editors|alternative dance,indie rock,modern rock,rock|56|674986;Editors;alternative dance,indie rock,modern rock,rock;56;674986
+2022-07-11;David Paich;6zgKTqBOokh6IjLXOO5zfQ;David Paich||23|1136;David Paich;;23;1136
+2022-07-11;Ørganek;2cPIQ8eVSqSKGjBQXgi3WH;Organek|polish alternative,polish alternative rock,polish pop|46|205640;Organek;polish alternative,polish alternative rock,polish pop;46;205640
+2022-07-11;Dawid Podsiadło;6EB8VE9f7Ut6NOgviN6gDW;Dawid Podsiadło|polish pop,talent show|66|1531405;Dawid Podsiadło;polish pop,talent show;66;1531405
+2022-07-11;Michał Pepol;0gaIWmDwfXqZ3uMj72ccZ0;Michał Pepol||25|123;Michał Pepol;;25;123
+2022-07-11;Gibbs;1T4HxOYolAEb5PadIVKdWZ;Gibbs|polish hip hop|64|53957;Gibbs;polish hip hop;64;53957
+2022-07-11;Follow;13DQTaJffWrdyqeUe7Fzr2;The Following Sea||0|4;The Following Sea;;0;4
+2022-07-11;Porcupine Tree;5NXHXK6hOCotCF8lvGM1I0;Porcupine Tree|alternative metal,art rock,progressive metal,progressive rock,symphonic rock|58|565956;Porcupine Tree;alternative metal,art rock,progressive metal,progressive rock,symphonic rock;58;565956
+2022-07-11;Diana Ross;3MdG05syQeRYPPcClLaUGl;Diana Ross|adult standards,disco,motown,quiet storm,soul|66|1477158;Diana Ross;adult standards,disco,motown,quiet storm,soul;66;1477158
+2022-07-11;Robert Plant;1OwarW4LEHnoep20ixRA0y;Robert Plant|album rock,art rock,blues rock,classic rock,hard rock,mellow gold,progressive rock,rock,roots rock,soft rock,symphonic rock,uk americana|58|955924;Robert Plant;album rock,art rock,blues rock,classic rock,hard rock,mellow gold,progressive rock,rock,roots rock,soft rock,symphonic rock,uk americana;58;955924
+2022-07-11;Mitch;2PQkXVCcXu0Nwf226rzGXq;Mitch & Mitch|polish alternative rock|33|4823;Mitch & Mitch;polish alternative rock;33;4823
+2022-07-11;Dawid Tyszkowski;2Lp4rVUJ5ZRZfT8wkWF81K;Dawid Tyszkowski||34|972;Dawid Tyszkowski;;34;972
+2022-07-11;The Waterboys;5TnuP42pw475UrjjeabtwZ;The Waterboys|art rock,celtic rock,new wave pop,rock,scottish new wave,scottish rock|55|218794;The Waterboys;art rock,celtic rock,new wave pop,rock,scottish new wave,scottish rock;55;218794
+2022-07-11;Kalush Orchestra;46rVVJwHWNS7C7MaWXd842;KALUSH|ukrainian hip hop,ukrainian pop,ukrainian viral pop|61|236949;KALUSH;ukrainian hip hop,ukrainian pop,ukrainian viral pop;61;236949
+2022-07-11;Stanisława Celińska;0sijpMmVF9ui4micUVn9d6;Stanisława Celińska|classic polish pop|27|5098;Stanisława Celińska;classic polish pop;27;5098
+2022-07-11;MARO;3NP4jJcW3R6qO6rbtnH0wn;MARO|musica portuguesa contemporanea|56|71953;MARO;musica portuguesa contemporanea;56;71953
+2022-07-11;Mariusz Lubomski;05AVHcWP9DF6y6LEU845uz;Mariusz Lubomski|classic polish pop|17|2113;Mariusz Lubomski;classic polish pop;17;2113
+2022-07-11;WaluśKraksaKryzys;4kOWvyAkvmkCrIHwW3bODd;WaluśKraksaKryzys|polish alternative,polish indie rock,polish post-punk|40|11903;WaluśKraksaKryzys;polish alternative,polish indie rock,polish post-punk;40;11903
+2022-07-11;Classix Nouveaux;40PsC6cWe7ZQdOUTqF5JgD;Classix Nouveaux|new romantic,new wave,new wave pop,synthpop|28|22214;Classix Nouveaux;new romantic,new wave,new wave pop,synthpop;28;22214
+2022-07-11;LemON;3B4XG3HanBgkVOybc89Q3T;LemON|polish pop,rusyn folk|42|40165;LemON;polish pop,rusyn folk;42;40165
+2022-07-11;Blossoms;22RISwgVJyZu9lpqAcv1F5;Blossoms|modern rock,rock|58|395490;Blossoms;modern rock,rock;58;395490
+2022-07-11;Jack Savoretti;7nC05zmJukRGYObQeRgg3x;Jack Savoretti|acoustic pop,neo mellow|53|267413;Jack Savoretti;acoustic pop,neo mellow;53;267413
+2022-07-11;Męskie Granie Orkiestra 2022;1WbPJm4WVQvxOEQO1GEJy7;Męskie Granie Orkiestra 2022|polish pop|46|3078;Męskie Granie Orkiestra 2022;polish pop;46;3078
+2022-07-11;Lady Gaga;1HY2Jd0NmPuamShAr6KMms;Lady Gaga|art pop,dance pop,pop|83|22588122;Lady Gaga;art pop,dance pop,pop;83;22588122
+2022-07-11;Luxtorpeda;0D5kXlS7UOApMpTyuSrFAW;Luxtorpeda|polish punk,polish rock,poznan indie|37|45709;Luxtorpeda;polish punk,polish rock,poznan indie;37;45709
+2022-07-11;Czesław Mozil;5rDWHA1JYXY31soG6Os9cY;Czesław Śpiewa|poezja spiewana,polish alternative|35|59570;Czesław Śpiewa;poezja spiewana,polish alternative;35;59570
+2022-07-11;Bluszcz;4QUfzPnzzNf93Y6VKxZVlD;Bluszcz|polish alternative,polish electronica|35|8048;Bluszcz;polish alternative,polish electronica;35;8048
+2022-07-11;Krzysztof Zalewski;1U1eSs7M2ENf09cDx4lavK;Krzysztof Zalewski|polish alternative rock,polish pop|54|190892;Krzysztof Zalewski;polish alternative rock,polish pop;54;190892
+2022-07-11;Michael Kiwanuka;0bzfPKdbXL5ezYW2z3UGQj;Michael Kiwanuka|british soul,neo soul,psychedelic soul,soul|62|1238185;Michael Kiwanuka;british soul,neo soul,psychedelic soul,soul;62;1238185
+2022-07-11;Maria Peszek;2bJ904AqmK8LRH9fGShlQM;Maria Peszek|classic polish pop,poezja spiewana,polish alternative,polish pop|39|65421;Maria Peszek;classic polish pop,poezja spiewana,polish alternative,polish pop;39;65421
+2022-07-11;Blurred Pink;420ExMrSqalFaHc9dypLlN;blurred pink||17|798;blurred pink;;17;798
+2022-07-11;Sting;0Ty63ceoRnnJKVEYP0VQpk;Sting|permanent wave,soft rock,sophisti-pop|69|2690592;Sting;permanent wave,soft rock,sophisti-pop;69;2690592
+2022-07-11;Iron Maiden;6mdiAmATAx73kdxrNrnlao;Iron Maiden|hard rock,metal,nwobhm,rock|72|7524657;Iron Maiden;hard rock,metal,nwobhm,rock;72;7524657
+2022-07-11;Skubas;5BoG8WljgEsbLOtoK5IAok;SKUBAS|polish alternative,polish indie|37|25690;SKUBAS;polish alternative,polish indie;37;25690
+2022-07-11;Dave Gahan;7hKXTmrq3ZppBx881yBbOr;Dave Gahan|alternative dance,new romantic,new wave,synthpop|42|173555;Dave Gahan;alternative dance,new romantic,new wave,synthpop;42;173555
+2022-07-11;The Rolling Stones;22bE4uQ6baNwSHPVcDxLCe;The Rolling Stones|album rock,british invasion,classic rock,rock|77|11890912;The Rolling Stones;album rock,british invasion,classic rock,rock;77;11890912
+2022-07-11;Organek;2cPIQ8eVSqSKGjBQXgi3WH;Organek|polish alternative,polish alternative rock,polish pop|46|205640;Organek;polish alternative,polish alternative rock,polish pop;46;205640
+2022-07-11;Eric Clapton;6PAt558ZEZl0DmdXlnjMgD;Eric Clapton|album rock,blues rock,classic rock,electric blues,mellow gold,rock,soft rock|70|4978443;Eric Clapton;album rock,blues rock,classic rock,electric blues,mellow gold,rock,soft rock;70;4978443
+2022-07-11;Marcin Nowakowski;3enFhWFiJILf4OYGcTPdMy;Marcin Nowakowski|bajki|8|307;Marcin Nowakowski;bajki;8;307
+2022-07-11;Elton John;3PhoLpVuITZKcymswpck5b;Elton John|glam rock,mellow gold,piano rock|82|9625395;Elton John;glam rock,mellow gold,piano rock;82;9625395
+2022-07-11;Olivia Vedder, Eddie Vedder, Glen Hansard;1cALtYxOIn4uWAfNdwcP4E;Olivia Vedder||35|4816;Olivia Vedder;;35;4816
+2022-07-11;Strachy Na Lachy;4DXXg7xzgKAEYeFhh9wAtk;Strachy Na Lachy|polish alternative rock|45|157399;Strachy Na Lachy;polish alternative rock;45;157399
+2022-07-11;Scorpions;27T030eWyCQRmDyuvr1kxY;Scorpions|album rock,german hard rock,german metal,german rock,hard rock,metal,rock|71|5709825;Scorpions;album rock,german hard rock,german metal,german rock,hard rock,metal,rock;71;5709825
+2022-07-11;Bitamina;2EJzUdaDAwfqcjpQcRAYdQ;Bitamina|polish alternative,polish indie,polish pop|45|126635;Bitamina;polish alternative,polish indie,polish pop;45;126635
+2022-07-11;Daria Zawiałow;0tdKRrbItnLj40yUFi23jx;Daria Zawiałow|polish alternative,polish indie,polish pop|61|325507;Daria Zawiałow;polish alternative,polish indie,polish pop;61;325507
+2022-07-11;Jan Borysewicz;3aOdQc0HYtG1ZJoU5eyv8P;Jan Borysewicz|polish blues|33|1333;Jan Borysewicz;polish blues;33;1333
+2022-07-11;Adele;4dpARuHxo51G3z768sgnrY;Adele|british soul,pop,pop soul,uk pop|84|39971672;Adele;british soul,pop,pop soul,uk pop;84;39971672
+2022-07-11;Patrick The Pan;7vYfq6OMlGDw1IpTxar2h2;Patrick the Pan|polish alternative,polish indie,polish pop|36|16686;Patrick the Pan;polish alternative,polish indie,polish pop;36;16686
+2022-07-11;Artur Rojek;2wmdMX0w131ZumU30P5WZH;Artur Rojek|polish alternative,polish indie,polish pop|50|130556;Artur Rojek;polish alternative,polish indie,polish pop;50;130556
+2022-07-11;Billy Idol;7lzordPuZEXxwt9aoVZYmG;Billy Idol|album rock,classic rock,dance rock,hard rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock|67|1456049;Billy Idol;album rock,classic rock,dance rock,hard rock,mellow gold,new romantic,new wave,new wave pop,rock,soft rock;67;1456049
+2022-07-11;Król;0gH4VBwt5MwWomiOXloDC4;Błażej Król|polish alternative,polish indie|48|29026;Błażej Król;polish alternative,polish indie;48;29026
+2022-07-11;Męskie Granie Orkiestra 2021;5xoXMR6Y8PORwObvyND9ZE;Męskie Granie Orkiestra 2021|polish alternative,polish pop|55|157429;Męskie Granie Orkiestra 2021;polish alternative,polish pop;55;157429
+2022-07-11;Stromae;5j4HeCoUlzhfWtjAfM1acR;Stromae|belgian pop,g-house|72|2446682;Stromae;belgian pop,g-house;72;2446682
+2022-07-11;Aurora;1WgXqy2Dd70QQOU7Ay074N;AURORA|art pop,norwegian pop|71|2332707;AURORA;art pop,norwegian pop;71;2332707
+2022-07-11;Red Hot Chili Peppers;0L8ExT028jH3ddEcZwqJJ5;Red Hot Chili Peppers|alternative rock,funk metal,funk rock,permanent wave|81|18336517;Red Hot Chili Peppers;alternative rock,funk metal,funk rock,permanent wave;81;18336517
+2022-07-11;Żurkowski;17ZrDcSLNOBMR1oz6w4DXs;Żurkowski|polish alternative|28|941;Żurkowski;polish alternative;28;941
+2022-07-11;Foo Fighters;7jy3rLJdDQY21OgRLCZ9sD;Foo Fighters|alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock|75|10041208;Foo Fighters;alternative metal,alternative rock,modern rock,permanent wave,post-grunge,rock;75;10041208
+2022-07-11;Ladaco;6smrG6QLzHOOBeIOzHx351;Ladaco|polish alternative|26|514;Ladaco;polish alternative;26;514
+2022-07-11;Bokka;6R2e6FSXY9vhgOulV08FO3;BOKKA|polish alternative,polish electronica,polish indie|36|41153;BOKKA;polish alternative,polish electronica,polish indie;36;41153
+2022-07-11;Bryan Adams;3Z02hBLubJxuFJfhacLSDc;Bryan Adams|canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,soft rock|73|2664649;Bryan Adams;canadian pop,canadian singer-songwriter,classic canadian rock,heartland rock,mellow gold,soft rock;73;2664649
+2022-07-11;Natalia Przybysz;03KLzHVK6la8dVop1iVI5x;Natalia Przybysz|poezja spiewana,polish alternative,polish pop|44|80703;Natalia Przybysz;poezja spiewana,polish alternative,polish pop;44;80703
+2022-07-11;Paweł Domagała;0Gk98lHv6LlqbWPwdMiga2;Paweł Domagała|polish pop|42|274340;Paweł Domagała;polish pop;42;274340
+2022-07-11;Grzegorz Turnau;5bQZCiENsgmW4SvUOc86qI;Grzegorz Turnau|classic polish pop,poezja spiewana,sung poetry|53|47613;Grzegorz Turnau;classic polish pop,poezja spiewana,sung poetry;53;47613
+2022-07-11;ZAZ;1mbgj8ERPs8lWi7t5cYrdy;Zaz|chanson,french jazz,nouvelle chanson francaise|61|1332103;Zaz;chanson,french jazz,nouvelle chanson francaise;61;1332103
+2022-07-11;Sokół;5Kuxl5ZenCl9fYzmtin6ot;Sokół|polish hip hop|56|227663;Sokół;polish hip hop;56;227663
+2022-07-11;Riverside;5yjbUO1Jocui7RKE30zfLT;Riverside|neo-progressive,polish prog,prog metal,progressive metal,progressive rock,symphonic rock|43|169887;Riverside;neo-progressive,polish prog,prog metal,progressive metal,progressive rock,symphonic rock;43;169887
+2022-07-11;Bovska;4E8L0A5xtDhcMaeBO7p0eg;Bovska|polish alternative,polish pop|37|65149;Bovska;polish alternative,polish pop;37;65149
+2022-07-11;U2;51Blml2LZPmy7TTiAg47vQ;U2|irish rock,permanent wave,rock|76|9933681;U2;irish rock,permanent wave,rock;76;9933681
+2022-07-11;Marillion;7ai5TWiOG8g9Hds5AATS28;Marillion|album rock,art rock,classic rock,neo-progressive,progressive rock,symphonic rock|56|407745;Marillion;album rock,art rock,classic rock,neo-progressive,progressive rock,symphonic rock;56;407745
+2022-07-11;Ed Sheeran;6eUKZXaKkcviH0Ku9w2n3V;Ed Sheeran|pop,uk pop|90|99612041;Ed Sheeran;pop,uk pop;90;99612041
+2022-07-11;Jack White;4FZ3j1oH43e7cukCALsCwf;Jack White|alternative rock,blues rock,garage rock,garage rock revival,modern blues rock,modern rock,punk blues,rock|59|1249426;Jack White;alternative rock,blues rock,garage rock,garage rock revival,modern blues rock,modern rock,punk blues,rock;59;1249426
+2022-07-11;Sorry Boys;0WX7MXOUx7elCFdxdgvdBU;Sorry Boys|polish alternative,polish pop|37|29087;Sorry Boys;polish alternative,polish pop;37;29087
+2022-07-11;Quebonafide;1fxbULcd6ryMNc1usHoP0R;Quebonafide|polish hip hop|64|1211701;Quebonafide;polish hip hop;64;1211701
+2022-07-11;Megadeth;1Yox196W7bzVNZI7RBaPnf;Megadeth|album rock,alternative metal,hard rock,melodic thrash,metal,old school thrash,rock,speed metal,thrash metal|68|4085564;Megadeth;album rock,alternative metal,hard rock,melodic thrash,metal,old school thrash,rock,speed metal,thrash metal;68;4085564
+2022-07-11;Maneskin;0lAWpj5szCSwM4rUMHYmrr;Måneskin|indie rock italiano,italian pop|78|6181227;Måneskin;indie rock italiano,italian pop;78;6181227
+2022-07-11;Brodka;4D22jVMhvZgzvt8Hh9AcKY;Brodka|polish alternative,polish indie,polish pop|50|196297;Brodka;polish alternative,polish indie,polish pop;50;196297
+2022-07-11;Alan Parsons, David Pack, Joe Bonamassa, Mike Larson;6HpZkC8GUktP9utE6OPWZG;Alan Parsons|album rock,art rock,progressive rock,symphonic rock|40|244954;Alan Parsons;album rock,art rock,progressive rock,symphonic rock;40;244954
+2022-07-11;Beth Hart;30TrHDLNCKQVTYWOn9QqOC;Beth Hart|modern blues|53|319265;Beth Hart;modern blues;53;319265
+2022-07-11;Tomek Lipiński;6lvxGuiw9Hvg0jNNJBUYGs;Tomek Lipinski|polish rock|23|4179;Tomek Lipinski;polish rock;23;4179
+2022-07-11;Gorillaz;3AA28KZvwAUcZuOKwyblJQ;Gorillaz|alternative hip hop|78|8945799;Gorillaz;alternative hip hop;78;8945799
